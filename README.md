@@ -7,8 +7,6 @@
 
 ## [Таблица с оценками #TBD]
 
-## [Материалы по семинарам](https://drive.google.com/drive/folders/1YOnUkf0qx5MYCrOOPMs1xXwlXJN0n6AI?usp=sharing)
-
 # План занятий
 
 ### Введение
