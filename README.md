@@ -13,8 +13,6 @@
 
 ### Введение
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf) / [*запись лекции*](https://youtu.be/OiNq8EtNCpU)
-
 - Общая идея курса
 - Информация о курсе
 
