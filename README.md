@@ -3,9 +3,9 @@
 # НИС "Методологии разработки ПО"
 *ФКН ВШЭ, 2022/2023*
 
-## [Канал курса в telegram #TBD]
+## [Чат курса в Telegram](https://t.me/+8zG21iV3u3FjZGIy)
 
-## [Таблица с оценками #TBD]
+## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/1xMZzuX_eOwskjDTZgfFa0ieNhPvIxunpn4-TcI-Bhls/edit?usp=sharing)
 
 # План занятий
 
