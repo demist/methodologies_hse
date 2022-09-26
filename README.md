@@ -175,8 +175,8 @@
 
 | Неделя | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: |
-| Неделя 1 | [Введение](https://github.com/demist/methodologies_hse_2022/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec1.pdf) | *докладов не будет* | | |
-| Неделя 2 | | *Докладов не будет* | | |
+| Неделя 1 | [Введение](https://github.com/demist/methodologies_hse_2022/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec1.pdf) | *Нет докладов* | | |
+| Неделя 2 | | *Нет докладов* | | |
 | Неделя 3 | | | | |
 | Неделя 4 | | | | |
 | Неделя 5 | | | | |
