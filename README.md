@@ -54,7 +54,7 @@
 	- Хорошие примеры
 	- Плохие примеры
 
-### :fire: Лекция 4
+### :white_check_mark: Лекция 4
 
 **Базовые методологии разработки ПО (ч.1 / продолжение)**
 
@@ -66,7 +66,7 @@
 	- Плохие примеры
 	- Хорошие примеры
 
-### :fire: Лекция 5
+### :white_check_mark: Лекция 5
 
 **Базовые методологии разработки ПО (ч. 2)**
 
@@ -77,7 +77,7 @@
 - RAD-модель
 	- Общее описание
 
-### Лекция 6
+### :fire: Лекция 6
 
 **Семейство гибких методологий**
 
@@ -178,7 +178,7 @@
 | Неделя 1 | [Введение](https://github.com/demist/methodologies_hse_2022/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec1.pdf) | *Нет докладов* | | |
 | Неделя 2 | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
 | Неделя 3 | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec5.pdf)| *Нет докладов* | | |
-| Неделя 4 | | | | |
+| Неделя 4 |[Семейство гибких методологий]() | **?** | **?** | **?** |
 | Неделя 5 | | | | |
 | Неделя 6 | | | | |
 | Неделя 7 | | | | |
@@ -200,4 +200,4 @@
 
 [0]:https://img.shields.io/badge/year-2022%2F2023-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/20/
+[2]:https://progress-bar.dev/30/
