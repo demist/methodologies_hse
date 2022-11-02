@@ -178,7 +178,7 @@
 | Неделя 1 | [Введение](https://github.com/demist/methodologies_hse_2022/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec1.pdf) | *Нет докладов* | | |
 | Неделя 2 | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
 | Неделя 3 | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec5.pdf)| *Нет докладов* | | |
-| Неделя 4 |[Семейство гибких методологий](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec6.pdf) | **?** | **?** | **?** |
+| Неделя 4 | [Семейство гибких методологий](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec6.pdf) | Битюгов Алексей |GRASP паттерны |[Презентация в Google Slides](https://docs.google.com/presentation/d/144UtLwYE3N55QHfZfBJC62Y9mt5fk7nHmyfR9UC8Lsg) |
 | Неделя 5 | | | | |
 | Неделя 6 | | | | |
 | Неделя 7 | | | | |
