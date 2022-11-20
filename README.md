@@ -77,7 +77,7 @@
 - RAD-модель
 	- Общее описание
 
-### :fire: Лекция 6
+### :white_check_mark: Лекция 6
 
 **Семейство гибких методологий**
 
@@ -200,4 +200,4 @@
 
 [0]:https://img.shields.io/badge/year-2022%2F2023-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/30/
+[2]:https://progress-bar.dev/40/
