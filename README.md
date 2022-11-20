@@ -124,7 +124,7 @@
 		- Жесткость
 		- Хрупкость
 		- Неподвижность
-- Принцип High Cohesion / Low Coupling (*было в * [докладе Алексея Битюгова](https://docs.google.com/presentation/d/144UtLwYE3N55QHfZfBJC62Y9mt5fk7nHmyfR9UC8Lsg))
+- Принцип High Cohesion / Low Coupling (было в [докладе Алексея Битюгова](https://docs.google.com/presentation/d/144UtLwYE3N55QHfZfBJC62Y9mt5fk7nHmyfR9UC8Lsg))
 
 ### Лекция 9 (*опциональна замена на другую тему*)
 
