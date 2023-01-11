@@ -174,7 +174,7 @@
 - Презентацию + краткое описание доклада + ссылки на все источники нужно залить в этот файл *README.md* через pull-request
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Неделя 1 | 13.09.2022 - 1 пара | [Введение](https://github.com/demist/methodologies_hse_2022/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec1.pdf) | *Нет докладов* | | |
 | Неделя 2 | 04.10.2022 - 2 пары | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
 | Неделя 3 | 11.10.2022 - 2 пары | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec5.pdf)| *Нет докладов* | | |
