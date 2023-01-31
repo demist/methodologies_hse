@@ -136,7 +136,7 @@
 - DRY / DIE
 - KISS
 
-### :fire: Лекция 10 (*опциональна замена на другую тему*)
+### :white_check_mark: Лекция 10 (*опциональна замена на другую тему*)
 
 **Инструменты моделирования и проектирования - UML**
 
@@ -180,13 +180,13 @@
 | Неделя 3 | 11.10.2022 (2 пары) | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec5.pdf)| *Нет докладов* | | |
 | Неделя 4 | 08.11.2022 (2 пары) | [Семейство гибких методологий](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec6.pdf) | Битюгов Алексей |GRASP паттерны |[Презентация в Google Slides](https://docs.google.com/presentation/d/144UtLwYE3N55QHfZfBJC62Y9mt5fk7nHmyfR9UC8Lsg), [материалы](https://github.com/demist/methodologies_hse_2022/tree/main/student_resources/%D0%91%D0%B8%D1%82%D1%8E%D0%B3%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9) |
 | Неделя 5 | 17.01.2023 (2 пары) | [CI/CD](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec7.pdf) + [Принципы проектирования ПО, ч.1](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec8.pdf) | *Нет докладов* | | |
-| Неделя 6 | 24.01.2023 (2 пары) | [Принципы проектирования ПО, ч.2](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec9.pdf) | 1. Вишняков Родион Сергеевич 2. *(Докладчик №2)* | 1. Технологии контейнеризации | 1. [Материалы](https://github.com/demist/methodologies_hse_2022/tree/main/student_resources/%D0%92%D0%B8%D1%88%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2%20%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD) |
-| Неделя 7 | 31.01.2023 (2 пары) | [Инструменты моделирования и проектирования - UML](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec10.pdf) | *(Докладчик №3)* *(Докладчик №4)* | | |
-| Неделя 8 | 14.02.2023 (2 пары) | *Нет лекции* | *(Докладчик №5)* *(Докладчик №6*) *(Докладчик №7)* | | |
-| Неделя 9 | 28.02.2023 (2 пары) | *Нет лекции* | *(Докладчик №8)* *(Докладчик №9)* *(Докладчик №10)* | | |
-| Неделя Х | 07.03.2023 (2 пары*) | *Нет лекции* | *(Докладчик №14)* *(Докладчик №15)* *(Докладчик №16)* | | |
-| Неделя 10 | 14.03.2023 (2 пары) | *Нет лекции* | *(Докладчик №11)* *(Докладчик №12)* *(Докладчик №13)* | | |
-| Неделя 11 | 21.03.2023 (3 пары) | **Устный опрос** | | | | 
+| Неделя 6 | 24.01.2023 (2 пары) | [Принципы проектирования ПО, ч.2](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec9.pdf) | Вишняков Родион Сергеевич  | Технологии контейнеризации | [Материалы](https://github.com/demist/methodologies_hse_2022/tree/main/student_resources/%D0%92%D0%B8%D1%88%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2%20%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD) |
+| Неделя 7 | 31.01.2023 (1 пара) | [Инструменты моделирования и проектирования - UML](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec10.pdf) | *Нет докладов* | | |
+| Неделя 8 | 14.02.2023 (2 пары) | *Нет лекции* | *(Докладчик №1)* *(Докладчик №2*) *(Докладчик №3)* | | |
+| Неделя 9 | 28.02.2023 (2 пары) | *Нет лекции* | *(Докладчик №4* *(Докладчик №5)* *(Докладчик №6)* | | |
+| Неделя 10 | 07.03.2023 (1 пара) | *Нет лекции* | *(Докладчик №7)* *(Докладчик №8)* | | |
+| Неделя 11 | 14.03.2023 (2 пары) | *Нет лекции* | *(Докладчик №9)* *(Докладчик №10)* *(Докладчик №10)* | | |
+| Неделя 12 | 21.03.2023 (3 пары) | **Устный опрос** | | | | 
 | **Итого** | 22 пары | | | | |
 
 ### Отчетное эссе
@@ -203,4 +203,4 @@
 
 [0]:https://img.shields.io/badge/year-2022%2F2023-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/55/
+[2]:https://progress-bar.dev/58/
