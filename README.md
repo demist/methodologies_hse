@@ -215,4 +215,4 @@
 
 [0]:https://img.shields.io/badge/year-2022%2F2023-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/58/
+[2]:https://progress-bar.dev/67/
