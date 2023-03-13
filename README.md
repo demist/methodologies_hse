@@ -203,6 +203,8 @@
 
 #### Подготовленные, но не рассказанные доклады.
 
+Маланьин Артём Денисович - Системы управления разработкой ПО - https://docs.google.com/presentation/d/1FPUQNjFNEYJW_745ZQzSeRBWXXpF_UuydP-Bgrz6fls/edit?usp=sharing
+
 *В формате ФИО - Тема - Ссылка на материалы*
 
 ### Отчетное эссе
