@@ -203,8 +203,10 @@
 
 #### Подготовленные, но не рассказанные доклады.
 
-- *В формате ФИО - Тема - Ссылка на материалы*
-- *Сафаров Сардор Хайрулла угли - Возможности и настройка Jenkins - [Материалы](https://github.com/skhsafarov/Report-about-Jenkins) [Презентация](https://skhsafarov.github.io/Report-about-Jenkins/)*
+*В формате ФИО - Тема - Ссылка на материалы*
+
+- Маланьин Артём Денисович - Системы управления разработкой ПО - [Материалы](https://docs.google.com/presentation/d/1FPUQNjFNEYJW_745ZQzSeRBWXXpF_UuydP-Bgrz6fls/edit?usp=sharing)
+- Сафаров Сардор Хайрулла угли - Возможности и настройка Jenkins - [Материалы](https://github.com/skhsafarov/Report-about-Jenkins) [Презентация](https://skhsafarov.github.io/Report-about-Jenkins/)
 
 ### Отчетное эссе
 
