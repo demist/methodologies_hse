@@ -209,6 +209,8 @@
 - Маланьин Артём Денисович - Системы управления разработкой ПО - [Материалы](https://docs.google.com/presentation/d/1FPUQNjFNEYJW_745ZQzSeRBWXXpF_UuydP-Bgrz6fls/edit?usp=sharing)
 - Сафаров Сардор Хайрулла угли - Возможности и настройка Jenkins - [Материалы](https://github.com/skhsafarov/Report-about-Jenkins) [Презентация](https://skhsafarov.github.io/Report-about-Jenkins/)
 
+Бабарикина Екатерина Алексеевна - Как оценивают сроки в it-проектах, использующих Agile - https://disk.yandex.ru/d/1le0BjCbyGr-DQ
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
