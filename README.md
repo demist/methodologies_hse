@@ -210,6 +210,7 @@
 - Сафаров Сардор Хайрулла угли - Возможности и настройка Jenkins - [Материалы](https://github.com/skhsafarov/Report-about-Jenkins) [Презентация](https://skhsafarov.github.io/Report-about-Jenkins/)
 - Бабарикина Екатерина Алексеевна - Как оценивают сроки в it-проектах, использующих Agile - [Материалы](https://disk.yandex.ru/d/1le0BjCbyGr-DQ)
 - Котков Дмитрий Павлович "Технология Jenkins" https://disk.yandex.ru/d/hkCFEo-JxYPnzw
+- Дунаев Егор - Jenkins - [Презентация](https://github.com/demist/methodologies_hse_2022/blob/main/student_resources/%D0%94%D1%83%D0%BD%D0%B0%D0%B5%D0%B2%20%D0%95%D0%B3%D0%BE%D1%80/Jenkins.pptm)
 
 ### Отчетное эссе
 
