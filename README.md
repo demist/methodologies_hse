@@ -238,5 +238,5 @@
 
 
 [0]:https://img.shields.io/badge/year-2022%2F2023-yellow
-[1]:https://img.shields.io/badge/status-exam-red
+[1]:https://img.shields.io/badge/status-ended-black
 [2]:https://progress-bar.dev/100/
