@@ -187,36 +187,18 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя 1 | 13.09.2022 (1 пара) | [Введение](https://github.com/demist/methodologies_hse_2022/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec1.pdf) | *Нет докладов* | | |
-| Неделя 2 | 04.10.2022 (2 пары) | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
-| Неделя 3 | 11.10.2022 (2 пары) | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec5.pdf)| *Нет докладов* | | |
-| Неделя 4 | 08.11.2022 (2 пары) | [Семейство гибких методологий](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec6.pdf) | Битюгов Алексей |GRASP паттерны |[Презентация в Google Slides](https://docs.google.com/presentation/d/144UtLwYE3N55QHfZfBJC62Y9mt5fk7nHmyfR9UC8Lsg), [материалы](https://github.com/demist/methodologies_hse_2022/tree/main/student_resources/%D0%91%D0%B8%D1%82%D1%8E%D0%B3%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9) |
-| Неделя 5 | 17.01.2023 (2 пары) | [CI/CD](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec7.pdf) + [Принципы проектирования ПО, ч.1](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec8.pdf) | *Нет докладов* | | |
-| Неделя 6 | 24.01.2023 (2 пары) | [Принципы проектирования ПО, ч.2](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec9.pdf) | Вишняков Родион Сергеевич  | Технологии контейнеризации | [Материалы](https://github.com/demist/methodologies_hse_2022/tree/main/student_resources/%D0%92%D0%B8%D1%88%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2%20%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD) |
-| Неделя 7 | 31.01.2023 (1 пара) | [Инструменты моделирования и проектирования - UML](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec10.pdf) | *Нет докладов* | | |
-| Неделя 8 | 14.02.2023 (1 пара) | *Нет лекции* | Хабибрахманова Алиса | Кризис в современной IT-сфере и парадокс успешного развития неочевидных IT-направлений | [Презентация](https://docs.google.com/presentation/d/1LiJurlbqg0_j3i1QLbDTUBURqrS0wkJZ/edit?usp=share_link&ouid=101051899084024444379&rtpof=true&sd=true), [материалы](https://disk.yandex.ru/i/0VjOpoLULhNJJw) |
-| Неделя 9 | 28.02.2023 (2 пары) | [Антипаттерны](https://github.com/demist/methodologies_hse_2022/blob/main/slides/lec11.pdf) | 1. Асланян Артак 2. Бушмаков Максим |1.Методология MSF(Microsoft Solutions Framework) 2. Методологии разработки игр | 1.[MSF презентация](https://disk.yandex.ru/i/WehQCnBjLvchQA), [MSF доклад](https://disk.yandex.ru/i/6MnbgBcG6CiONw) 2. [Презентация](https://github.com/demist/methodologies_hse_2022/blob/main/student_resources/%D0%91%D1%83%D1%88%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%B8%D0%B3%D1%80%20(%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F).pdf), [Заметки (на английском)](https://github.com/demist/methodologies_hse_2022/blob/main/student_resources/%D0%91%D1%83%D1%88%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC/%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20(%D0%BD%D0%B0%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC).pdf) |
-| Неделя 10 | 07.03.2023 (1 пара) | *Нет лекции* | 1. Балабанов Максим 2. Голомедов Александр | 1. Модели ветвления 2. Использование различных систем контроля версий при разработке игр. | 1. [Презентация](https://drive.google.com/file/d/1gQxUSrBlDrJS_oIb7-1gDZEJQtS6-38C/view?usp=sharing) 2. [Презентация](https://drive.google.com/file/d/1eVczXzecZmKjM-IOfbpSG6kI9iQAyBU-/view?usp=sharing) |
-| Неделя 11 | 14.03.2023 (2 пары) | *Нет лекции* | 1. Самойлов Павел 2. Аношин Егор 3. Кирьянова Софья | 1. Принципы обеспечения безопасности ПО на различных стадиях его жизненного цикла. 2. Использование AI и ML в оптимизации разработки ПО | 1. [Презентация](https://docs.google.com/presentation/d/105vODZ2ESJzbPckYnHUTH3a1r448Wo92/edit?usp=share_link&ouid=116630063879453581731&rtpof=true&sd=true) 2. [Презентация](https://docs.google.com/presentation/d/1OG7irApIJZvustRbPNGdSz4aKX24JP8Zyt3U241kE8k/edit#slide=id.g21b67ddf504_0_152) 3. [Презентация](https://docs.google.com/presentation/d/1PIZjB_4my-mkb2DeVzzyG1CO_te4YI0t/edit#slide=id.p1), [Заметки](https://docs.google.com/document/d/1e1KbGe1u1IX12ijANze_2UgTQMXrWVsY/edit)
-| Неделя 12 | 21.03.2023 (3 пары) | **Устный опрос** | | | | 
-| **Итого** | 21 пара | | | | |
+| Неделя 0 | | | | | |
+| **Итого** | XX пар | | | | |
 
 #### Подготовленные, но не рассказанные доклады.
 
 *В формате ФИО - Тема - Ссылка на материалы*
 
-- Троицкий Максим Алексеевич - Разработка и переход ПАО «Сбербанк» на методологию разработки Sbergile. - [Материалы](https://drive.google.com/drive/folders/1-RAzKv6auXyqMuV_gNcfUxo4T1eF9T3i?usp=sharing)
-- Маланьин Артём Денисович - Системы управления разработкой ПО - [Материалы](https://docs.google.com/presentation/d/1FPUQNjFNEYJW_745ZQzSeRBWXXpF_UuydP-Bgrz6fls/edit?usp=sharing)
-- Сафаров Сардор Хайрулла угли - Возможности и настройка Jenkins - [Материалы](https://github.com/skhsafarov/Report-about-Jenkins) [Презентация](https://skhsafarov.github.io/Report-about-Jenkins/)
-- Бабарикина Екатерина Алексеевна - Как оценивают сроки в it-проектах, использующих Agile - [Материалы](https://disk.yandex.ru/d/1le0BjCbyGr-DQ)
-- Котков Дмитрий Павлович "Технология Jenkins" https://disk.yandex.ru/d/hkCFEo-JxYPnzw
-- Дунаев Егор - Jenkins - [Презентация](https://github.com/demist/methodologies_hse_2022/blob/main/student_resources/%D0%94%D1%83%D0%BD%D0%B0%D0%B5%D0%B2%20%D0%95%D0%B3%D0%BE%D1%80/Jenkins.pptm)
-
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
 
-:bangbang: **Эссе необходимо подготовить до 19 марта включительно**
+:bangbang: **Эссе необходимо подготовить до XX включительно**
 
 Готовое эссе присылайте на почту [nikita.starichkov@gmail.com](mailto:nikita.starichkov@gmail.com), обязательно укажите тему письма "Отчетное эссе Методологии разработки", а в теле письма укажите свое ФИО и номер группы.
 
@@ -224,17 +206,17 @@
 
 На знание базовых методологий разработки, их сильных и слабых сторон
 
-:bangbang: **Устный опрос пройдет 21 марта, начало - в 14:40**
+:bangbang: **Устный опрос пройдет XX**
 
 ## Формула оценки
 
 **Итоговая оценка** = *Математическое округление* (0.4 \* [Научный доклад](https://github.com/demist/methodologies_hse_2022#%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4) + 0.3 \* [Отчетное эссе](https://github.com/demist/methodologies_hse_2022#%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D0%B5-%D1%8D%D1%81%D1%81%D0%B5) + 0.3 \* [Устный опрос](https://github.com/demist/methodologies_hse_2022#%D1%83%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%BF%D1%80%D0%BE%D1%81))
 
 **Сроки выставления оценок:**
-- Оценка за доклады - ориентировочно **18-19 марта**
-- Оценка за эссе - ориентировочно **20-21 марта**, но может затянуться до **25-26 марта**
-- Оценка за устный опрос - **21 марта**
-- **Итоговая оценка за курс: 21 марта** (оптимистично), **26 марта** (пессимистично) 
+- Оценка за доклады - ориентировочно **XX**
+- Оценка за эссе - ориентировочно **XX**
+- Оценка за устный опрос - **XX**
+- **Итоговая оценка за курс: XX** (оптимистично), **XX** (пессимистично) 
 
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
