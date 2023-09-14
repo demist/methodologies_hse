@@ -9,12 +9,12 @@
 
 # План занятий
 
-###  Введение
+###  :fire: Введение
 
 - Общая идея курса
 - Информация о курсе
 
-###  Лекция 1
+###  :fire: Лекция 1
 
 **Общие понятия о методологиях разработки ПО**
 
@@ -187,8 +187,8 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя 0 | | | | | |
-| **Итого** | XX пар | | | | |
+| Неделя 1 | 18/09/2023 *(1 пара)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf)| *Нет докладов* | | |
+| **Итого** | 1 пара | | | | |
 
 #### Подготовленные, но не рассказанные доклады
 
@@ -220,5 +220,5 @@
 
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
-[1]:https://img.shields.io/badge/status-plannded-blue
+[1]:https://img.shields.io/badge/status-ongoing-green
 [2]:https://progress-bar.dev/0/
