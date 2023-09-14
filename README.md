@@ -187,7 +187,7 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя 1 | 18/09/2023 *(1 пара)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf)| *Нет докладов* | | |
+| Неделя №1 | 18/09/2023 *(1 пара)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf)| *Нет докладов* | | |
 | **Итого** | 1 пара | | | | |
 
 #### Подготовленные, но не рассказанные доклады
