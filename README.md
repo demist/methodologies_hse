@@ -196,6 +196,8 @@
 
 #### Подготовленные, но не рассказанные доклады
 
+Фролов Иван Григорьевич - Spotify Model - https://docs.google.com/presentation/d/1IkFCuZPidvbeA3zTBqMUnKWjXZnnlnfrCMcAjHJOF6Q/edit?usp=sharing
+
 *В формате ФИО - Тема - Ссылка на материалы*
 
 ### Отчетное эссе
