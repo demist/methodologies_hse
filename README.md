@@ -43,7 +43,7 @@
         - Варианты поставки и развертывания
     - Сопровождение
 
-###  :fire: Лекция 3
+###  Лекция 3
 
 **Базовые методологии разработки ПО (ч.1)**
 
@@ -192,12 +192,10 @@
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Неделя №1 | 18/09/2023 *(1 пара)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf)| *Нет докладов* | | |
-| Неделя №2 | 02/10/2023 *(2 пары)* |[Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf)| *Нет докладов* | | |
+| Неделя №2 | 02/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | Фролов И.Г. | Spotify Model | [Презентация](https://docs.google.com/presentation/d/1IkFCuZPidvbeA3zTBqMUnKWjXZnnlnfrCMcAjHJOF6Q/edit?usp=sharing) |
 | **Итого** | 1 пара | | | | |
 
 #### Подготовленные, но не рассказанные доклады
-
-Фролов Иван Григорьевич - Spotify Model - https://docs.google.com/presentation/d/1IkFCuZPidvbeA3zTBqMUnKWjXZnnlnfrCMcAjHJOF6Q/edit?usp=sharing
 
 *В формате ФИО - Тема - Ссылка на материалы*
 
