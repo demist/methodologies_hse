@@ -43,7 +43,7 @@
         - Варианты поставки и развертывания
     - Сопровождение
 
-###  Лекция 3
+###  :fire: Лекция 3
 
 **Базовые методологии разработки ПО (ч.1)**
 
@@ -193,11 +193,11 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Неделя №1 | 18/09/2023 *(1 пара)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf)| *Нет докладов* | | |
 | Неделя №2 | 02/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | Фролов И.Г. | Spotify Model | [Презентация](https://docs.google.com/presentation/d/1IkFCuZPidvbeA3zTBqMUnKWjXZnnlnfrCMcAjHJOF6Q/edit?usp=sharing) |
-| **Итого** | 1 пара | | | | |
+| Неделя №3 | 16/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО (продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | Мельник Д.С. | Переход Sony на SAFe | :---: |
+| **Итого** | 5 пар | | | | |
 
 #### Подготовленные, но не рассказанные доклады
 
-Мельник Денис Сергеевич - Переход Sony на SAFe - WIP
 *В формате ФИО - Тема - Ссылка на материалы*
 
 ### Отчетное эссе
@@ -227,4 +227,4 @@
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/9/
+[2]:https://progress-bar.dev/18/
