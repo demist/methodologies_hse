@@ -5,7 +5,7 @@
 
 ## [Чат курса в Telegram](https://t.me/+wfHlhmBdhf0xYTZi)
 
-## [Рабочая ведомость по курсу] //TODO
+## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/1NQmwJe8S7TEyhE-h_SHxIuTGXHa0elkfShHqtmmm8WQ/edit?usp=sharing)
 
 # План занятий
 
