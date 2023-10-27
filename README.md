@@ -27,7 +27,7 @@
 	- Внешние факторы
 	- Внутренние факторы
 
-###  :fire: Лекция 2
+###  :white_check_mark: Лекция 2
 
 **Жизненный цикл проектирования, разработки и внедрения ПО**
 
@@ -47,16 +47,16 @@
 
 **Базовые методологии разработки ПО (ч.1)**
 
-- Каскадная модель
+- :white_check_mark: Каскадная модель
 	- Общее описание
 	- Хорошие примеры
 	- Плохие примеры
-- V-модель
+- :fire: V-модель
 	- Общее описание
 	- Хорошие примеры
 	- Плохие примеры
 
-###  Лекция 4
+###  :fire: Лекция 4
 
 **Базовые методологии разработки ПО (ч.1 / продолжение)**
 
@@ -194,6 +194,7 @@
 | Неделя №1 | 18/09/2023 *(1 пара)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf)| *Нет докладов* | | |
 | Неделя №2 | 02/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | Фролов И.Г. | Spotify Model | [Презентация](https://docs.google.com/presentation/d/1IkFCuZPidvbeA3zTBqMUnKWjXZnnlnfrCMcAjHJOF6Q/edit?usp=sharing) |
 | Неделя №3 | 16/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО (продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | Мельник Д.С. | Переход Sony на SAFe | :---: |
+| Неделя №4 | 30/10/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec4.pdf) | *Нет докладов* | | |
 | **Итого** | 5 пар | | | | |
 
 #### Подготовленные, но не рассказанные доклады
@@ -227,4 +228,4 @@
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/18/
+[2]:https://progress-bar.dev/27/
