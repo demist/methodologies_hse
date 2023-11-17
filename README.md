@@ -68,7 +68,7 @@
 	- Плохие примеры
 	- Хорошие примеры
 
-###  Лекция 5
+###  :fire: Лекция 5
 
 **Базовые методологии разработки ПО (ч. 2)**
 
@@ -79,7 +79,7 @@
 - RAD-модель
 	- Общее описание
 
-###  Лекция 6
+###  :fire: Лекция 6
 
 **Семейство гибких методологий**
 
@@ -195,6 +195,7 @@
 | Неделя №2 | 02/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | Фролов И.Г. | Spotify Model | [Презентация](https://docs.google.com/presentation/d/1IkFCuZPidvbeA3zTBqMUnKWjXZnnlnfrCMcAjHJOF6Q/edit?usp=sharing) |
 | Неделя №3 | 16/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО (продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | Мельник Д.С. | Переход Sony на SAFe | [Презентация](https://docs.google.com/presentation/d/1XtAIEcXIBZfE9Qkl4Ngy8-HFjqSxx8t9PFBklx-6dEI/edit#slide=id.p) |
 | Неделя №4 | 30/10/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
+| Неделя №5 | 20/11/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) + [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | *Нет докладов* | | |
 | **Итого** | 7 пар | | | | |
 
 #### Подготовленные, но не рассказанные доклады
