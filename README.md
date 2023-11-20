@@ -196,6 +196,7 @@
 | Неделя №3 | 16/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО (продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | Мельник Д.С. | Переход Sony на SAFe | [Презентация](https://docs.google.com/presentation/d/1XtAIEcXIBZfE9Qkl4Ngy8-HFjqSxx8t9PFBklx-6dEI/edit#slide=id.p) |
 | Неделя №4 | 30/10/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
 | Неделя №5 | 20/11/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) + [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | *Нет докладов* | | |
+| Неделя №6 | 04/12/2023 *(2 пары)* |  | Ильин А.Д. | Перевернутая система Supercell | [Презентация](https://docs.google.com/presentation/d/1DIeYi_7IIbNrRCbtHlJoolyU_V8CwuTeoer5M6n27p4/edit#slide=id.p1) |
 | **Итого** | 9 пар | | | | |
 
 #### Подготовленные, но не рассказанные доклады
