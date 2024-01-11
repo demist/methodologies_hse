@@ -100,7 +100,7 @@
 	- Хороший пример
 	- Общие соображения, когда работает хорошо
 
-###  :fire: Лекция 7
+###  :white_check_mark: Лекция 7
 
 **CI/CD**
 
@@ -197,12 +197,14 @@
 | Неделя №4 | 30/10/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
 | Неделя №5 | 20/11/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) + [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | *Нет докладов* | | |
 | Неделя №6 | 04/12/2023 *(2 пары)* | [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | Ильин А.Д. | Перевернутая система Supercell | [Презентация](https://docs.google.com/presentation/d/1DIeYi_7IIbNrRCbtHlJoolyU_V8CwuTeoer5M6n27p4/edit#slide=id.p1) |
-| **Итого** | 11 пар | | | | |
+| Неделя №7 | 15/01/2024 *(2 пары)* | *Нет лекции* | 1. Попов П.Д. | 1. Lean vs. Agile: Основные различия и ключевые преимущества | 1. [Материалы](https://disk.yandex.ru/d/WGLwlHPSR76g2A) |
+| **Итого** | 13 пар | | | | |
 
 #### Подготовленные, но не рассказанные доклады
 
 *В формате ФИО - Тема - Ссылка на материалы*
 Хоссейн Екатерина Глебовна - Extreme programming / Trunk based development
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
@@ -230,4 +232,4 @@
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/45/
+[2]:https://progress-bar.dev/55/
