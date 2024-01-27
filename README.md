@@ -198,7 +198,8 @@
 | Неделя №5 | 20/11/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) + [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | *Нет докладов* | | |
 | Неделя №6 | 04/12/2023 *(2 пары)* | [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | Ильин А.Д. | Перевернутая система Supercell | [Презентация](https://docs.google.com/presentation/d/1DIeYi_7IIbNrRCbtHlJoolyU_V8CwuTeoer5M6n27p4/edit#slide=id.p1) |
 | Неделя №7 | 15/01/2024 *(2 пары)* | *Нет лекции* | 1. Попов П.Д. 2. Хоссейн Е.Г. 3. Курылин И. | 1. Lean vs. Agile: Основные различия и ключевые преимущества 2. Extreme programming / Trunk based development 3. IT-компания “Тензор” – производство и внедрение | 1. [Материалы](https://disk.yandex.ru/d/WGLwlHPSR76g2A) 2. [Материалы](https://drive.google.com/drive/folders/1fkVw6_iRJp6QMK9v0ciJIpnokaiKQdSj?usp=share_link) 3. [Материалы](https://disk.yandex.ru/d/CdFaS1PYgBeLlQ) |
-| Неделя №8 | 29/01/2024 *(2 пары)* | Принципы проектирования ПО - [ч.1](https://github.com/demist/methodologies_hse/blob/main/slides/lec8.pdf) и [ч.2](https://github.com/demist/methodologies_hse/blob/main/slides/lec9.pdf) | *Нет докладов* | | |
+| Неделя №8 | 29/01/2024 *(2 пары)* | Принципы проектирования ПО - [ч.1](https://github.com/demist/methodologies_hse/blob/main/slides/lec8.pdf) и [ч.2](https://github.com/demist/methodologies_hse/blob/main/slides/lec9.pdf) | 1. Сазонов Олег | 1. Методология разработки "Getting Real" от 37signals | 1. [Материалы](https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link
+) |
 | Неделя №9 | ХХ/ХХ/ХХХХ | | 1. Еськова У.Д. + 2 слота на доклады | 1. Продвинутая автоматизация разработки с помощью Jenkins | 1. [Материалы](https://drive.google.com/drive/folders/16qnmAMp68ygWUu2vI8fe2mRb1XCkGgEN?usp=sharing) |
 | Неделя №10 | ХХ/ХХ/ХХХХ | | 3 слота на доклады | | |
 | Неделя №11 | ХХ/ХХ/ХХХХ | *Устный опрос* | | | |
@@ -207,7 +208,6 @@
 #### Подготовленные, но не рассказанные доклады
 
 *В формате ФИО - Тема - Ссылка на материалы*
-Сазонов Олег - методология разработки "Getting Real" от 37signals - https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link
 
 ### Отчетное эссе
 
