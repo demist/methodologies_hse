@@ -207,6 +207,7 @@
 #### Подготовленные, но не рассказанные доклады
 
 *В формате ФИО - Тема - Ссылка на материалы*
+Сазонов Олег - методология разработки "Getting Real" от 37signals - https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link
 
 ### Отчетное эссе
 
