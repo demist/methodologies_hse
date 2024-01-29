@@ -198,11 +198,11 @@
 | Неделя №5 | 20/11/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) + [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | *Нет докладов* | | |
 | Неделя №6 | 04/12/2023 *(2 пары)* | [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | Ильин А.Д. | Перевернутая система Supercell | [Презентация](https://docs.google.com/presentation/d/1DIeYi_7IIbNrRCbtHlJoolyU_V8CwuTeoer5M6n27p4/edit#slide=id.p1) |
 | Неделя №7 | 15/01/2024 *(2 пары)* | *Нет лекции* | 1. Попов П.Д. 2. Хоссейн Е.Г. 3. Курылин И. | 1. Lean vs. Agile: Основные различия и ключевые преимущества 2. Extreme programming / Trunk based development 3. IT-компания “Тензор” – производство и внедрение | 1. [Материалы](https://disk.yandex.ru/d/WGLwlHPSR76g2A) 2. [Материалы](https://drive.google.com/drive/folders/1fkVw6_iRJp6QMK9v0ciJIpnokaiKQdSj?usp=share_link) 3. [Материалы](https://disk.yandex.ru/d/CdFaS1PYgBeLlQ) |
-| Неделя №8 | 29/01/2024 *(2 пары)* | Принципы проектирования ПО - [ч.1](https://github.com/demist/methodologies_hse/blob/main/slides/lec8.pdf) (*сначала - доклады, лекционная часть - как будем успевать*)| 1. Сазонов О. 2. Радионов Н.Д. | 1. Методология разработки "Getting Real" от 37signals 2. Методология БЭМ | 1. [Материалы](https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link) 2. [Материалы](https://disk.yandex.ru/d/s10XwqoCXvj8pg) |
+| Неделя №8 | 29/01/2024 *(1 пара)* | *Нет лекции*| 1. Сазонов О. 2. Радионов Н.Д. | 1. Методология разработки "Getting Real" от 37signals 2. Методология БЭМ | 1. [Материалы](https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link) 2. [Материалы](https://disk.yandex.ru/d/s10XwqoCXvj8pg) |
 | Неделя №9 | ХХ/ХХ/ХХХХ | | 1. Еськова У.Д. 2. Грузинцев Е.А. + 1 слот на доклад | 1. Продвинутая автоматизация разработки с помощью Jenkins 2. Методологии анализа данных в разработке ПО: CRISP-DM и SEMMA | 1. [Материалы](https://drive.google.com/drive/folders/16qnmAMp68ygWUu2vI8fe2mRb1XCkGgEN?usp=sharing) 2. [Материалы](https://drive.google.com/drive/folders/1LfTrHTljMaYtcGAJ6bHSV-9ogq_JwWvF?usp=sharing)|
 | Неделя №10 | ХХ/ХХ/ХХХХ | | 3 слота на доклады | | |
 | Неделя №11 | ХХ/ХХ/ХХХХ | *Устный опрос* | | | |
-| **Итого** | 15 пар | | 5 слотов на доклады осталось | | |
+| **Итого** | 14 пар прошло *+ 1 пара в запасе* | | 4 слота на доклады осталось | | |
 
 #### Подготовленные, но не рассказанные доклады
 
@@ -235,4 +235,4 @@
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/64/
+[2]:https://progress-bar.dev/73/
