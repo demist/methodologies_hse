@@ -200,7 +200,7 @@
 | Неделя №7 | 15/01/2024 *(2 пары)* | *Нет лекции* | 1. Попов П.Д. 2. Хоссейн Е.Г. 3. Курылин И. | 1. Lean vs. Agile: Основные различия и ключевые преимущества 2. Extreme programming / Trunk based development 3. IT-компания “Тензор” – производство и внедрение | 1. [Материалы](https://disk.yandex.ru/d/WGLwlHPSR76g2A) 2. [Материалы](https://drive.google.com/drive/folders/1fkVw6_iRJp6QMK9v0ciJIpnokaiKQdSj?usp=share_link) 3. [Материалы](https://disk.yandex.ru/d/CdFaS1PYgBeLlQ) |
 | Неделя №8 | 29/01/2024 *(1 пара)* | *Нет лекции*| 1. Сазонов О. 2. Радионов Н.Д. | 1. Методология разработки "Getting Real" от 37signals 2. Методология БЭМ | 1. [Материалы](https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link) 2. [Материалы](https://disk.yandex.ru/d/s10XwqoCXvj8pg) |
 | Неделя №9 | ХХ/ХХ/ХХХХ | | 1. Еськова У.Д. 2. Грузинцев Е.А. 3. Валиахметов Ш.Р. | 1. Продвинутая автоматизация разработки с помощью Jenkins 2. Методологии анализа данных в разработке ПО: CRISP-DM и SEMMA 3. Kubernetes | 1. [Материалы](https://drive.google.com/drive/folders/16qnmAMp68ygWUu2vI8fe2mRb1XCkGgEN?usp=sharing) 2. [Материалы](https://drive.google.com/drive/folders/1LfTrHTljMaYtcGAJ6bHSV-9ogq_JwWvF?usp=sharing) 3. [Материалы](https://github.com/rumblfn/KubernetesMaterials) |
-| Неделя №10 | ХХ/ХХ/ХХХХ | | 3 слота на доклады | | |
+| Неделя №10 | ХХ/ХХ/ХХХХ | |  1. Сафронова К.Ю. + 2 слотa на доклад | 1. Jira Software | 1. [Материалы](https://docs.google.com/presentation/d/1gT7Jl06UxOnO7RE4nTqjaPhre8KgdxEBbH6nLTtkG_k/edit?usp=sharing) | | |
 | Неделя №11 | ХХ/ХХ/ХХХХ | *Устный опрос* | | | |
 | **Итого** | 14 пар прошло *+ 1 пара в запасе* | | 3 слота на доклады осталось | | |
 
