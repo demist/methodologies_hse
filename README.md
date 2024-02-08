@@ -207,6 +207,7 @@
 #### Подготовленные, но не рассказанные доклады
 
 *В формате ФИО - Тема - Ссылка на материалы*
+Петянов Трофим Антонович – Agile в Apple – https://drive.google.com/drive/folders/1D6v0JVsuF5Y08R2BJTBVgM8iN9uydZg1?usp=share_link
 
 ### Отчетное эссе
 
