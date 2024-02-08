@@ -110,7 +110,7 @@
 - Роль CI/CD/CD в процессе разработки ПО
 - Пример "как это работает у нас"
 
-###  Лекция 8 (*опциональна замена на другую тему*)
+###  :fire: Лекция 8 (*опциональна замена на другую тему*)
 
 **Принципы проектирования ПО, ч.1**
 
@@ -199,10 +199,10 @@
 | Неделя №6 | 04/12/2023 *(2 пары)* | [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | Ильин А.Д. | Перевернутая система Supercell | [Презентация](https://docs.google.com/presentation/d/1DIeYi_7IIbNrRCbtHlJoolyU_V8CwuTeoer5M6n27p4/edit#slide=id.p1) |
 | Неделя №7 | 15/01/2024 *(2 пары)* | *Нет лекции* | 1. Попов П.Д. 2. Хоссейн Е.Г. 3. Курылин И. | 1. Lean vs. Agile: Основные различия и ключевые преимущества 2. Extreme programming / Trunk based development 3. IT-компания “Тензор” – производство и внедрение | 1. [Материалы](https://disk.yandex.ru/d/WGLwlHPSR76g2A) 2. [Материалы](https://drive.google.com/drive/folders/1fkVw6_iRJp6QMK9v0ciJIpnokaiKQdSj?usp=share_link) 3. [Материалы](https://disk.yandex.ru/d/CdFaS1PYgBeLlQ) |
 | Неделя №8 | 29/01/2024 *(1 пара)* | *Нет лекции*| 1. Сазонов О. 2. Радионов Н.Д. | 1. Методология разработки "Getting Real" от 37signals 2. Методология БЭМ | 1. [Материалы](https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link) 2. [Материалы](https://disk.yandex.ru/d/s10XwqoCXvj8pg) |
-| Неделя №9 | ХХ/ХХ/ХХХХ | | 1. Еськова У.Д. 2. Грузинцев Е.А. 3. Валиахметов Ш.Р. | 1. Продвинутая автоматизация разработки с помощью Jenkins 2. Методологии анализа данных в разработке ПО: CRISP-DM и SEMMA 3. Kubernetes | 1. [Материалы](https://drive.google.com/drive/folders/16qnmAMp68ygWUu2vI8fe2mRb1XCkGgEN?usp=sharing) 2. [Материалы](https://drive.google.com/drive/folders/1LfTrHTljMaYtcGAJ6bHSV-9ogq_JwWvF?usp=sharing) 3. [Материалы](https://github.com/rumblfn/KubernetesMaterials) |
+| Неделя №9 | 12/02/2024 *(2 пары)* | [Принципы проектирования ПО, ч.1](https://github.com/demist/methodologies_hse/blob/main/slides/lec8.pdf) | 1. Еськова У.Д. 2. Грузинцев Е.А. 3. Валиахметов Ш.Р. | 1. Продвинутая автоматизация разработки с помощью Jenkins 2. Методологии анализа данных в разработке ПО: CRISP-DM и SEMMA 3. Kubernetes | 1. [Материалы](https://drive.google.com/drive/folders/16qnmAMp68ygWUu2vI8fe2mRb1XCkGgEN?usp=sharing) 2. [Материалы](https://drive.google.com/drive/folders/1LfTrHTljMaYtcGAJ6bHSV-9ogq_JwWvF?usp=sharing) 3. [Материалы](https://github.com/rumblfn/KubernetesMaterials) |
 | Неделя №10 | ХХ/ХХ/ХХХХ | |  1. Сафронова К.Ю. 2. Владимиров А.М. + 1 слот на доклад | 1. Jira Software 2. Методология Rational Unified Process(RUP) | 1. [Материалы](https://docs.google.com/presentation/d/1gT7Jl06UxOnO7RE4nTqjaPhre8KgdxEBbH6nLTtkG_k/edit?usp=sharing) 2. [Материалы](https://disk.yandex.ru/d/WxjeqB_B3rNdtg) | | |
 | Неделя №11 | ХХ/ХХ/ХХХХ | *Устный опрос* | | | |
-| **Итого** | 14 пар прошло *+ 1 пара в запасе* | | 1 слот на доклад остался | | |
+| **Итого** | 16 пар *+ 1 пара в запасе* | | 1 слот на доклады осталось | | |
 
 #### Подготовленные, но не рассказанные доклады
 
