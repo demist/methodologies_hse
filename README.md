@@ -1,4 +1,3 @@
-[Методология разработки ПО ВТБ.pptx](https://github.com/Dmitry-Alekseev01/methodologies_hse/files/14363263/default.pptx)![year][0] ![status][1] ![progress][2]
 
 # НИС "Методологии разработки ПО"
 *ФКН ВШЭ, 2023/2024*
