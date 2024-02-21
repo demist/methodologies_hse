@@ -212,6 +212,7 @@
 :bangbang: **Дедлайн по загрузке материалов - 29 февраля включительно** 
 
 *В формате ФИО - Тема - Ссылка на материалы*
+
 Алексеев Дмитрий Денисович - Методология Разработки ПО ВТБ - [https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT](https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT?usp=drive_link)
 
 ### Отчетное эссе
