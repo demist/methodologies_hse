@@ -1,4 +1,4 @@
-![year][0] ![status][1] ![progress][2]
+[Методология разработки ПО ВТБ.pptx](https://github.com/Dmitry-Alekseev01/methodologies_hse/files/14363263/default.pptx)![year][0] ![status][1] ![progress][2]
 
 # НИС "Методологии разработки ПО"
 *ФКН ВШЭ, 2023/2024*
@@ -213,6 +213,7 @@
 :bangbang: **Дедлайн по загрузке материалов - 29 февраля включительно** 
 
 *В формате ФИО - Тема - Ссылка на материалы*
+Алексеев Дмитрий Денисович - Методология Разработки ПО ВТБ - [https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT](https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT?usp=drive_link)
 
 ### Отчетное эссе
 
