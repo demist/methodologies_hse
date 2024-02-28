@@ -215,6 +215,9 @@
 
 Алексеев Дмитрий Денисович - Методология Разработки ПО ВТБ - [Материалы](https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT?usp=drive_link)
 
+Лившиц Леонид Игоревич - Microsoft Solutions Framework -[Материалы]
+(https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
