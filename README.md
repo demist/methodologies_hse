@@ -217,6 +217,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Санников Григорий Сергеевич - Методология БЭМ - [Материалы](https://drive.google.com/drive/u/0/folders/1od_Mw2LHk0eJUNzuTBijASzGtjetdlET?q=parent:1od_Mw2LHk0eJUNzuTBijASzGtjetdlET)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
