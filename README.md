@@ -217,6 +217,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Скорик Егор Михайлович - Микросервисная архитектура (опыт работы с микросервисами в Netflix) [Материалы](https://drive.google.com/drive/folders/1Vfkoprbu1a9WOAS-ZBwfT1w9e_OUwse9?usp=sharing)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
