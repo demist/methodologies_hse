@@ -217,6 +217,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Пальцева Злата Игоревна - Driven Development: BDD, DDD, FDD, MDD, PDD и TDDx2 - [Материалы](https://disk.yandex.ru/d/pk_K9VSuftpbNA)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
