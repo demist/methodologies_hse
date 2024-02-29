@@ -217,6 +217,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Лебедев Андрей Андреевич - Методология Crystal - [Материалы](https://disk.yandex.ru/d/1X-YEBihyl_NUg)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
