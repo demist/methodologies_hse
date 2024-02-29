@@ -217,6 +217,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Шикалов Андрей Артемович - Сравнение Github Actions, Gitlab CI и Travis CI - [Материалы](https://drive.google.com/drive/folders/1WZRI4ngQgRUZdeTcO2uRU19eF_We8WBn?usp=sharing)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
