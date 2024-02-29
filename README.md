@@ -217,6 +217,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Чеботарев Остап Русланович - Применение методологии Agile в компании Ticketland - [Материалы](https://drive.google.com/drive/folders/1hgKROwkLAXQonjXvj3Sk_N5Pn-vX0_Fh?usp=drive_link)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
