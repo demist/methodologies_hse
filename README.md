@@ -212,6 +212,7 @@
 :bangbang: **Дедлайн по загрузке материалов - 29 февраля включительно** 
 
 *В формате ФИО - Тема - Ссылка на материалы*
+Приладышев Юрий Владимирович - Six sigma - https://disk.yandex.ru/d/IoNwTGnB-0atBA
 
 Алексеев Дмитрий Денисович - Методология Разработки ПО ВТБ - [Материалы](https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT?usp=drive_link)
 
