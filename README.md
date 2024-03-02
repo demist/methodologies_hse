@@ -219,6 +219,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Тупикин Дмитрий Евгеньевич - Методология компании Adobe - [Материалы](https://docs.google.com/presentation/d/1ddq-HlRha0WokQHiiLgKoDJCDxZlenzqUMukeSl7ccE/edit?usp=drive_link)
+
 Чеботарев Остап Русланович - Применение методологии Agile в компании Ticketland - [Материалы](https://drive.google.com/drive/folders/1hgKROwkLAXQonjXvj3Sk_N5Pn-vX0_Fh?usp=drive_link)
 
 Пальцева Злата Игоревна - Driven Development: BDD, DDD, FDD, MDD, PDD и TDDx2 - [Материалы](https://disk.yandex.ru/d/pk_K9VSuftpbNA)
