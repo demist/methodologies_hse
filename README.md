@@ -219,6 +219,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Шикалов Андрей Артемович - Сравнение Github Actions, Gitlab CI и Travis CI - [Материалы](https://drive.google.com/drive/folders/1WZRI4ngQgRUZdeTcO2uRU19eF_We8WBn?usp=sharing)
+
 Лебедев Андрей Андреевич - Методология Crystal - [Материалы](https://disk.yandex.ru/d/1X-YEBihyl_NUg)
 
 Тупикин Дмитрий Евгеньевич - Методология компании Adobe - [Материалы](https://docs.google.com/presentation/d/1ddq-HlRha0WokQHiiLgKoDJCDxZlenzqUMukeSl7ccE/edit?usp=drive_link)
