@@ -219,6 +219,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Скорик Егор Михайлович - Микросервисная архитектура (опыт работы с микросервисами в Netflix) [Материалы](https://drive.google.com/drive/folders/1Vfkoprbu1a9WOAS-ZBwfT1w9e_OUwse9?usp=sharing)
+
 Шикалов Андрей Артемович - Сравнение Github Actions, Gitlab CI и Travis CI - [Материалы](https://drive.google.com/drive/folders/1WZRI4ngQgRUZdeTcO2uRU19eF_We8WBn?usp=sharing)
 
 Лебедев Андрей Андреевич - Методология Crystal - [Материалы](https://disk.yandex.ru/d/1X-YEBihyl_NUg)
@@ -232,6 +234,7 @@
 Санников Григорий Сергеевич - Методология БЭМ - [Материалы](https://drive.google.com/drive/u/0/folders/1od_Mw2LHk0eJUNzuTBijASzGtjetdlET?q=parent:1od_Mw2LHk0eJUNzuTBijASzGtjetdlET)
 
 Вечеровский Роберт Николаевич - Site Reliability Engineering - [Материалы](https://disk.yandex.ru/i/5x4UHOlg4C1Sfw)
+
 
 ### Отчетное эссе
 
