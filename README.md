@@ -127,7 +127,7 @@
 		- Неподвижность
 - Принцип High Cohesion / Low Coupling 
 
-###  :fire: Лекция 9 (*опциональна замена на другую тему*)
+###  :white_check_mark: Лекция 9 (*опциональна замена на другую тему*)
 
 **Принципы проектирования ПО, ч.2**
 
@@ -200,8 +200,8 @@
 | Неделя №8 | 29/01/2024 *(1 пара)* | *Нет лекции*| 1. Сазонов О. 2. Радионов Н.Д. | 1. Методология разработки "Getting Real" от 37signals 2. Методология БЭМ | 1. [Материалы](https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link) 2. [Материалы](https://disk.yandex.ru/d/s10XwqoCXvj8pg) |
 | Неделя №9 | 12/02/2024 *(2 пары)* | [Принципы проектирования ПО, ч.1](https://github.com/demist/methodologies_hse/blob/main/slides/lec8.pdf) | 1. Еськова У.Д. 2. Грузинцев Е.А. 3. Валиахметов Ш.Р. | 1. Продвинутая автоматизация разработки с помощью Jenkins 2. Методологии анализа данных в разработке ПО: CRISP-DM и SEMMA 3. Kubernetes | 1. [Материалы](https://drive.google.com/drive/folders/16qnmAMp68ygWUu2vI8fe2mRb1XCkGgEN?usp=sharing) 2. [Материалы](https://drive.google.com/drive/folders/1LfTrHTljMaYtcGAJ6bHSV-9ogq_JwWvF?usp=sharing) 3. [Материалы](https://github.com/rumblfn/KubernetesMaterials) |
 | Неделя №10 | 26/02/2024 *(3 пары)* | [Принципы проектирования ПО, ч.2](https://github.com/demist/methodologies_hse/blob/main/slides/lec9.pdf) |  1. Сафронова К.Ю. 2. Владимиров А.М. 3. Никонов А.А.  4. Петянов Т.А. 5. Бородулин А.А. | 1. Jira Software 2. Методология Rational Unified Process(RUP) 3. LeSS в ДоДо 4. Agile в Apple 5. Процессы разработки в Google | 1. [Материалы](https://docs.google.com/presentation/d/1gT7Jl06UxOnO7RE4nTqjaPhre8KgdxEBbH6nLTtkG_k/edit?usp=sharing) 2. [Материалы](https://disk.yandex.ru/d/WxjeqB_B3rNdtg) 3. [Материалы](https://docs.google.com/presentation/d/1jW2l8u4DZhxZlOpNzjGHkRfChWJ6zwaq_HoCRL1EZIw/edit?usp=sharing) 4. [Материалы](https://drive.google.com/drive/folders/1D6v0JVsuF5Y08R2BJTBVgM8iN9uydZg1?usp=share_link) 5. [Материалы](https://disk.yandex.ru/d/okFkJKbhkmdrqg) | | |
-| Неделя №11 | ХХ/ХХ/ХХХХ | *Устный опрос* | | | |
-| **Итого** | 19 пар | | | | |
+| Неделя №11 | 11/03/2024 *(2+ пары)*| *Устный опрос* | | | |
+| **Итого** | 21 пара | | | | |
 
 #### Подготовленные, но не рассказанные доклады
 
@@ -209,7 +209,7 @@
 
 **Если доклад подготовлен, но не рассказан, то вы получите оценку за него со штрафом в 40%** *(т.е. оценка за доклад будет умножена на 0.6)*
 
-:bangbang: **Дедлайн по загрузке материалов - 29 февраля включительно** 
+:bangbang: **Дедлайн по загрузке материалов - 29 февраля включительно** - *доклады проверены, оценки выставлены*
 
 *В формате ФИО - Тема - Ссылка на материалы*
 
@@ -248,7 +248,13 @@
 
 На знание базовых методологий разработки, их сильных и слабых сторон
 
-:bangbang: **Устный опрос пройдет на последнем занятии (предварительно, это будет Неделя №11), а также будет еще один день в сессию 3 модуля**
+**Темы устного опроса** - лекции №3, №4, №5, №6 (*Базовые методологии разработки ПО (ч.1, ч.2)* + *Семейство гибких методологий*)
+
+**Первый день сдачи устного опроса** - 11.03 (в рамках занятия). Записаться можно в нашей [ведомости](https://docs.google.com/spreadsheets/d/1NQmwJe8S7TEyhE-h_SHxIuTGXHa0elkfShHqtmmm8WQ/edit#gid=0) на листе `Устный опрос 11.03 - запись`
+
+**Второй день сдачи устного опроса** - будет в рамках сессии 3 модуля, *подробности позже* 
+
+Вы можете сдавать в любое день по вашему желанию, но рекомендую лучше сдавать 11.03 (пока есть слоты), чтобы в сессию нам не пришлось сидеть до ночи, пока все не сдадут.
 
 ## Формула оценки
 
@@ -263,4 +269,4 @@
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/82/
+[2]:https://progress-bar.dev/91/
