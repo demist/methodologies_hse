@@ -213,11 +213,28 @@
 
 *В формате ФИО - Тема - Ссылка на материалы*
 
+Приладышев Юрий Владимирович - Six sigma - https://disk.yandex.ru/d/IoNwTGnB-0atBA
+
 Алексеев Дмитрий Денисович - Методология Разработки ПО ВТБ - [Материалы](https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT?usp=drive_link)
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
 Скорик Егор Михайлович - Микросервисная архитектура (опыт работы с микросервисами в Netflix) [Материалы](https://drive.google.com/drive/folders/1Vfkoprbu1a9WOAS-ZBwfT1w9e_OUwse9?usp=sharing)
+
+Шикалов Андрей Артемович - Сравнение Github Actions, Gitlab CI и Travis CI - [Материалы](https://drive.google.com/drive/folders/1WZRI4ngQgRUZdeTcO2uRU19eF_We8WBn?usp=sharing)
+
+Лебедев Андрей Андреевич - Методология Crystal - [Материалы](https://disk.yandex.ru/d/1X-YEBihyl_NUg)
+
+Тупикин Дмитрий Евгеньевич - Методология компании Adobe - [Материалы](https://docs.google.com/presentation/d/1ddq-HlRha0WokQHiiLgKoDJCDxZlenzqUMukeSl7ccE/edit?usp=drive_link)
+
+Чеботарев Остап Русланович - Применение методологии Agile в компании Ticketland - [Материалы](https://drive.google.com/drive/folders/1hgKROwkLAXQonjXvj3Sk_N5Pn-vX0_Fh?usp=drive_link)
+
+Пальцева Злата Игоревна - Driven Development: BDD, DDD, FDD, MDD, PDD и TDDx2 - [Материалы](https://disk.yandex.ru/d/pk_K9VSuftpbNA)
+
+Санников Григорий Сергеевич - Методология БЭМ - [Материалы](https://drive.google.com/drive/u/0/folders/1od_Mw2LHk0eJUNzuTBijASzGtjetdlET?q=parent:1od_Mw2LHk0eJUNzuTBijASzGtjetdlET)
+
+Вечеровский Роберт Николаевич - Site Reliability Engineering - [Материалы](https://disk.yandex.ru/i/5x4UHOlg4C1Sfw)
+
 
 ### Отчетное эссе
 
