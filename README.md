@@ -218,6 +218,8 @@
 
 Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
 
+Вечеровский Роберт Николаевич - Site Reliability Engineering - [Материалы](https://disk.yandex.ru/i/5x4UHOlg4C1Sfw)
+
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
