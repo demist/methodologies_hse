@@ -253,7 +253,7 @@
 
 **Первый день сдачи устного опроса** - 11.03 (в рамках занятия). Записаться можно в нашей [ведомости](https://docs.google.com/spreadsheets/d/1NQmwJe8S7TEyhE-h_SHxIuTGXHa0elkfShHqtmmm8WQ/edit#gid=0) на листе `Устный опрос 11.03 - запись`
 
-**Второй день сдачи устного опроса** - будет в рамках сессии 3 модуля, *подробности позже* 
+**Второй день сдачи устного опроса** - 25.03. Начало в **12:00**. Записаться можно в нашей [ведомости](https://docs.google.com/spreadsheets/d/1NQmwJe8S7TEyhE-h_SHxIuTGXHa0elkfShHqtmmm8WQ/edit#gid=0) на листе `Устный опрос 25.03 - запись`
 
 Вы можете сдавать в любой день по вашему желанию, но рекомендую лучше сдавать 11.03 (пока есть слоты), чтобы в сессию нам не пришлось сидеть до ночи, пока все не сдадут.
 
@@ -269,5 +269,5 @@
 
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
-[1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/91/
+[1]:https://img.shields.io/badge/status-exam-red
+[2]:https://progress-bar.dev/100
