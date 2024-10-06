@@ -269,5 +269,5 @@
 
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
-[1]:https://img.shields.io/badge/status-exam-red
+[1]:https://img.shields.io/badge/status-finished-black
 [2]:https://progress-bar.dev/100
