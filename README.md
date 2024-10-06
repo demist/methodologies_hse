@@ -1,4 +1,4 @@
-![year][0] ![status][1] ![progress][2]
+![year][0] ![status][1]
 
 # НИС "Методологии разработки ПО"
 *ФКН ВШЭ, 2023/2024*
@@ -270,4 +270,4 @@
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
 [1]:https://img.shields.io/badge/status-finished-black
-[2]:https://progress-bar.dev/100
+
