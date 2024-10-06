@@ -268,6 +268,6 @@
 - **Итоговая оценка за курс: XX** (оптимистично), **XX** (пессимистично) 
 
 
-[0]:https://img.shields.io/badge/year-2023%2F2024-yellow
-[1]:https://img.shields.io/badge/status-exam-red
-[2]:https://progress-bar.dev/100
+[0]:https://img.shields.io/badge/year-2024%2F2025-yellow
+[1]:https://img.shields.io/badge/status-ongoing-green
+[2]:https://img.shields.io/badge/progress-0-yellow
