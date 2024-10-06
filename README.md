@@ -1,22 +1,22 @@
 ![year][0] ![status][1] ![progress][2]
 
 # НИС "Методологии разработки ПО"
-*ФКН ВШЭ, 2023/2024*
+*ФКН ВШЭ, 2024/2025*
 
 ## [Чат курса в Telegram](https://t.me/+wfHlhmBdhf0xYTZi)
 
-## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/1NQmwJe8S7TEyhE-h_SHxIuTGXHa0elkfShHqtmmm8WQ/edit?usp=sharing)
+## [Рабочая ведомость по курсу /// TODO]
 
 # План занятий
 
 ## [Понедельный план-график](https://github.com/demist/methodologies_hse#%D0%BF%D0%BE%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BB%D0%B0%D0%BD-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA-1)
 
-###  :white_check_mark: Введение
+###  :fire: Введение
 
 - Общая идея курса
 - Информация о курсе
 
-###  :white_check_mark: Лекция 1
+###  :fire: Лекция 1
 
 **Общие понятия о методологиях разработки ПО**
 
@@ -27,7 +27,7 @@
 	- Внешние факторы
 	- Внутренние факторы
 
-###  :white_check_mark: Лекция 2
+###  :fire: Лекция 2
 
 **Жизненный цикл проектирования, разработки и внедрения ПО**
 
@@ -43,7 +43,7 @@
         - Варианты поставки и развертывания
     - Сопровождение
 
-###  :white_check_mark: Лекция 3
+###  Лекция 3
 
 **Базовые методологии разработки ПО (ч.1)**
 
@@ -56,7 +56,7 @@
 	- Хорошие примеры
 	- Плохие примеры
 
-###  :white_check_mark: Лекция 4
+###  Лекция 4
 
 **Базовые методологии разработки ПО (ч.1 / продолжение)**
 
@@ -68,7 +68,7 @@
 	- Плохие примеры
 	- Хорошие примеры
 
-###  :white_check_mark: Лекция 5
+###  Лекция 5
 
 **Базовые методологии разработки ПО (ч. 2)**
 
@@ -79,7 +79,7 @@
 - RAD-модель
 	- Общее описание
 
-###  :white_check_mark: Лекция 6
+###  Лекция 6
 
 **Семейство гибких методологий**
 
@@ -100,7 +100,7 @@
 	- Хороший пример
 	- Общие соображения, когда работает хорошо
 
-###  :white_check_mark: Лекция 7
+###  Лекция 7
 
 **CI/CD**
 
@@ -110,7 +110,7 @@
 - Роль CI/CD/CD в процессе разработки ПО
 - Пример "как это работает у нас"
 
-###  :white_check_mark: Лекция 8 (*опциональна замена на другую тему*)
+###  Лекция 8 (*опциональна замена на другую тему*)
 
 **Принципы проектирования ПО, ч.1**
 
@@ -128,7 +128,7 @@
 		- Неподвижность
 - Принцип High Cohesion / Low Coupling 
 
-###  :white_check_mark: Лекция 9 (*опциональна замена на другую тему*)
+###  Лекция 9 (*опциональна замена на другую тему*)
 
 **Принципы проектирования ПО, ч.2**
 
@@ -191,18 +191,17 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя №1 | 18/09/2023 *(1 пара)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf)| *Нет докладов* | | |
-| Неделя №2 | 02/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | Фролов И.Г. | Spotify Model | [Презентация](https://docs.google.com/presentation/d/1IkFCuZPidvbeA3zTBqMUnKWjXZnnlnfrCMcAjHJOF6Q/edit?usp=sharing) |
-| Неделя №3 | 16/10/2023 *(2 пары)* | [Жизненный цикл проектирования, разработки и внедрения ПО (продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | Мельник Д.С. | Переход Sony на SAFe | [Презентация](https://docs.google.com/presentation/d/1XtAIEcXIBZfE9Qkl4Ngy8-HFjqSxx8t9PFBklx-6dEI/edit#slide=id.p) |
-| Неделя №4 | 30/10/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | *Нет докладов* | | |
-| Неделя №5 | 20/11/2023 *(2 пары)* | [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) + [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | *Нет докладов* | | |
-| Неделя №6 | 04/12/2023 *(2 пары)* | [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | Ильин А.Д. | Перевернутая система Supercell | [Презентация](https://docs.google.com/presentation/d/1DIeYi_7IIbNrRCbtHlJoolyU_V8CwuTeoer5M6n27p4/edit#slide=id.p1) |
-| Неделя №7 | 15/01/2024 *(2 пары)* | *Нет лекции* | 1. Попов П.Д. 2. Хоссейн Е.Г. 3. Курылин И. | 1. Lean vs. Agile: Основные различия и ключевые преимущества 2. Extreme programming / Trunk based development 3. IT-компания “Тензор” – производство и внедрение | 1. [Материалы](https://disk.yandex.ru/d/WGLwlHPSR76g2A) 2. [Материалы](https://drive.google.com/drive/folders/1fkVw6_iRJp6QMK9v0ciJIpnokaiKQdSj?usp=share_link) 3. [Материалы](https://disk.yandex.ru/d/CdFaS1PYgBeLlQ) |
-| Неделя №8 | 29/01/2024 *(1 пара)* | *Нет лекции*| 1. Сазонов О. 2. Радионов Н.Д. | 1. Методология разработки "Getting Real" от 37signals 2. Методология БЭМ | 1. [Материалы](https://drive.google.com/drive/folders/1Nx1TuYgGXTl49HStC0gtP-BatEq3tsq9?usp=drive_link) 2. [Материалы](https://disk.yandex.ru/d/s10XwqoCXvj8pg) |
-| Неделя №9 | 12/02/2024 *(2 пары)* | [Принципы проектирования ПО, ч.1](https://github.com/demist/methodologies_hse/blob/main/slides/lec8.pdf) | 1. Еськова У.Д. 2. Грузинцев Е.А. 3. Валиахметов Ш.Р. | 1. Продвинутая автоматизация разработки с помощью Jenkins 2. Методологии анализа данных в разработке ПО: CRISP-DM и SEMMA 3. Kubernetes | 1. [Материалы](https://drive.google.com/drive/folders/16qnmAMp68ygWUu2vI8fe2mRb1XCkGgEN?usp=sharing) 2. [Материалы](https://drive.google.com/drive/folders/1LfTrHTljMaYtcGAJ6bHSV-9ogq_JwWvF?usp=sharing) 3. [Материалы](https://github.com/rumblfn/KubernetesMaterials) |
-| Неделя №10 | 26/02/2024 *(3 пары)* | [Принципы проектирования ПО, ч.2](https://github.com/demist/methodologies_hse/blob/main/slides/lec9.pdf) |  1. Сафронова К.Ю. 2. Владимиров А.М. 3. Никонов А.А.  4. Петянов Т.А. 5. Бородулин А.А. | 1. Jira Software 2. Методология Rational Unified Process(RUP) 3. LeSS в ДоДо 4. Agile в Apple 5. Процессы разработки в Google | 1. [Материалы](https://docs.google.com/presentation/d/1gT7Jl06UxOnO7RE4nTqjaPhre8KgdxEBbH6nLTtkG_k/edit?usp=sharing) 2. [Материалы](https://disk.yandex.ru/d/WxjeqB_B3rNdtg) 3. [Материалы](https://docs.google.com/presentation/d/1jW2l8u4DZhxZlOpNzjGHkRfChWJ6zwaq_HoCRL1EZIw/edit?usp=sharing) 4. [Материалы](https://drive.google.com/drive/folders/1D6v0JVsuF5Y08R2BJTBVgM8iN9uydZg1?usp=share_link) 5. [Материалы](https://disk.yandex.ru/d/okFkJKbhkmdrqg) | | |
-| Неделя №11 | 11/03/2024 *(2+ пары)*| *Устный опрос* | | | |
-| **Итого** | 21 пара | | | | |
+| Неделя №1 | 07/10/2024 *(2 пары)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) + [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | *Нет докладов* | | |
+| Неделя №2 | 21/10/2024 *(2 пары)* | | | | |
+| Неделя №3 | | | | | |
+| Неделя №4 | | | | | |
+| Неделя №5 | | | | | |
+| Неделя №6 | | | | | |
+| Неделя №7 | | | | | |
+| Неделя №8 | | | | | |
+| Неделя №9 | | | | | |
+| Неделя №10 | | | | | |
+| **Итого** | *4 пары* | | | | |
 
 #### Подготовленные, но не рассказанные доклады
 
@@ -210,38 +209,13 @@
 
 **Если доклад подготовлен, но не рассказан, то вы получите оценку за него со штрафом в 40%** *(т.е. оценка за доклад будет умножена на 0.6)*
 
-:bangbang: **Дедлайн по загрузке материалов - 29 февраля включительно** - *доклады проверены, оценки выставлены*
-
 *В формате ФИО - Тема - Ссылка на материалы*
-
-Приладышев Юрий Владимирович - Six sigma - https://disk.yandex.ru/d/IoNwTGnB-0atBA
-
-Алексеев Дмитрий Денисович - Методология Разработки ПО ВТБ - [Материалы](https://drive.google.com/drive/folders/1cEJTRK_sHEotEeCQJFyLERz5Y_3_WiMT?usp=drive_link)
-
-Лившиц Леонид Игоревич - Microsoft Solutions Framework - [Материалы](https://drive.google.com/drive/folders/14PKnPKcq_KYavMN4ZWVuiPmpsKhKF5PU?usp=sharing)
-
-Скорик Егор Михайлович - Микросервисная архитектура (опыт работы с микросервисами в Netflix) [Материалы](https://drive.google.com/drive/folders/1Vfkoprbu1a9WOAS-ZBwfT1w9e_OUwse9?usp=sharing)
-
-Шикалов Андрей Артемович - Сравнение Github Actions, Gitlab CI и Travis CI - [Материалы](https://drive.google.com/drive/folders/1WZRI4ngQgRUZdeTcO2uRU19eF_We8WBn?usp=sharing)
-
-Лебедев Андрей Андреевич - Методология Crystal - [Материалы](https://disk.yandex.ru/d/1X-YEBihyl_NUg)
-
-Тупикин Дмитрий Евгеньевич - Методология компании Adobe - [Материалы](https://docs.google.com/presentation/d/1ddq-HlRha0WokQHiiLgKoDJCDxZlenzqUMukeSl7ccE/edit?usp=drive_link)
-
-Чеботарев Остап Русланович - Применение методологии Agile в компании Ticketland - [Материалы](https://drive.google.com/drive/folders/1hgKROwkLAXQonjXvj3Sk_N5Pn-vX0_Fh?usp=drive_link)
-
-Пальцева Злата Игоревна - Driven Development: BDD, DDD, FDD, MDD, PDD и TDDx2 - [Материалы](https://disk.yandex.ru/d/pk_K9VSuftpbNA)
-
-Санников Григорий Сергеевич - Методология БЭМ - [Материалы](https://drive.google.com/drive/u/0/folders/1od_Mw2LHk0eJUNzuTBijASzGtjetdlET?q=parent:1od_Mw2LHk0eJUNzuTBijASzGtjetdlET)
-
-Вечеровский Роберт Николаевич - Site Reliability Engineering - [Материалы](https://disk.yandex.ru/i/5x4UHOlg4C1Sfw)
-
 
 ### Отчетное эссе
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
 
-:bangbang: **Эссе необходимо подготовить до 10 марта включительно**
+:bangbang: **Дедлайн по эссе будет в конце февраля - начале марта. Точная дата будет объявлена в начале 3 модуля**
 
 Готовое эссе присылайте на почту [nikita.starichkov@gmail.com](mailto:nikita.starichkov@gmail.com), обязательно укажите тему письма "Отчетное эссе Методологии разработки", а в теле письма укажите свое ФИО и номер группы.
 
@@ -251,9 +225,7 @@
 
 **Темы устного опроса** - лекции №3, №4, №5, №6 (*Базовые методологии разработки ПО (ч.1, ч.2)* + *Семейство гибких методологий*)
 
-**Первый день сдачи устного опроса** - 11.03 (в рамках занятия). Записаться можно в нашей [ведомости](https://docs.google.com/spreadsheets/d/1NQmwJe8S7TEyhE-h_SHxIuTGXHa0elkfShHqtmmm8WQ/edit#gid=0) на листе `Устный опрос 11.03 - запись`
-
-**Второй день сдачи устного опроса** - 25.03. Начало в **12:00**. Записаться можно в нашей [ведомости](https://docs.google.com/spreadsheets/d/1NQmwJe8S7TEyhE-h_SHxIuTGXHa0elkfShHqtmmm8WQ/edit#gid=0) на листе `Устный опрос 25.03 - запись`
+:bangbang: **Устный опрос будет в конце курса: в конце 3 модуля**
 
 Вы можете сдавать в любой день по вашему желанию, но рекомендую лучше сдавать 11.03 (пока есть слоты), чтобы в сессию нам не пришлось сидеть до ночи, пока все не сдадут.
 
@@ -268,6 +240,6 @@
 - **Итоговая оценка за курс: XX** (оптимистично), **XX** (пессимистично) 
 
 
-[0]:https://img.shields.io/badge/year-2024%2F2025-yellow
+[0]:https://img.shields.io/badge/year-2024%2F2025-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
 [2]:https://img.shields.io/badge/progress-0-yellow
