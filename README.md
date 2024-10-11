@@ -195,7 +195,7 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя №1 | 07/10/2024 *(2 пары)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies _hse/blob/main/slides/lec1.pdf) + [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | *Нет докладов* | | |
+| Неделя №1 | 07/10/2024 *(2 пары)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) + [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | *Нет докладов* | | |
 | Неделя №2 | 21/10/2024 *(2 пары)* | | 1. 2. 3. | | |
 | Неделя №3 | | | 4. 5. 6. | | |
 | Неделя №4 | | | 7. 8. 9. | | |
