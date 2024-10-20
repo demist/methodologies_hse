@@ -247,4 +247,4 @@
 
 [0]:https://img.shields.io/badge/year-2024%2F2025-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-9%-yellow
+[2]:https://img.shields.io/badge/progress-9/100-yellow
