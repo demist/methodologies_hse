@@ -11,12 +11,12 @@
 
 ## [Понедельный план-график](https://github.com/demist/methodologies_hse#%D0%BF%D0%BE%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BB%D0%B0%D0%BD-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA-1)
 
-###  :fire: Введение
+###  :white_check_mark: Введение
 
 - Общая идея курса
 - Информация о курсе
 
-###  :fire: Лекция 1
+###  :white_check_mark: Лекция 1
 
 **Общие понятия о методологиях разработки ПО**
 
@@ -27,7 +27,7 @@
 	- Внешние факторы
 	- Внутренние факторы
 
-###  :fire: Лекция 2
+###  :white_check_mark: Лекция 2
 
 **Жизненный цикл проектирования, разработки и внедрения ПО**
 
@@ -43,7 +43,7 @@
         - Варианты поставки и развертывания
     - Сопровождение
 
-###  Лекция 3
+###  :fire: Лекция 3
 
 **Базовые методологии разработки ПО (ч.1)**
 
@@ -56,7 +56,7 @@
 	- Хорошие примеры
 	- Плохие примеры
 
-###  Лекция 4
+###  :fire: Лекция 4
 
 **Базовые методологии разработки ПО (ч.1 / продолжение)**
 
@@ -196,7 +196,7 @@
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Неделя №1 | 07/10/2024 *(2 пары)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) + [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | *Нет докладов* | | |
-| Неделя №2 | 21/10/2024 *(2 пары)* | | 1. 2. 3. | | |
+| Неделя №2 | 21/10/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | 1. 2. 3. | | |
 | Неделя №3 | | | 4. 5. 6. | | |
 | Неделя №4 | | | 7. 8. 9. | | |
 | Неделя №5 | | | 10. 11. 12. | | |
@@ -247,4 +247,4 @@
 
 [0]:https://img.shields.io/badge/year-2024%2F2025-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-0-yellow
+[2]:https://img.shields.io/badge/progress-9%-yellow
