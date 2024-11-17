@@ -56,7 +56,7 @@
 	- Хорошие примеры
 	- Плохие примеры
 
-###  :white_check_mark: Лекция 4
+###  :fire: Лекция 4
 
 **Базовые методологии разработки ПО (ч.1 / продолжение)**
 
@@ -79,7 +79,7 @@
 - RAD-модель
 	- Общее описание
 
-###  :fire: Лекция 6
+###  Лекция 6
 
 **Семейство гибких методологий**
 
@@ -196,8 +196,8 @@
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Неделя №1 | 07/10/2024 *(2 пары)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) + [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | *Нет докладов* | | |
-| Неделя №2 | 21/10/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | 1. *dismissed* 2. *dismissed* 3. *dismissed* | | |
-| Неделя №3 | 18/11/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) + [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | 4. *dismissed* 5. *dismissed* 6. *dismissed* | | |
+| Неделя №2 | 21/10/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | 1. *dismissed* 2. *dismissed* 3. *dismissed* | | |
+| Неделя №3 | 18/11/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) | 4. *dismissed* 5. *dismissed* 6. *dismissed* | | |
 | Неделя №4 | | | 7. 8. 9. | | |
 | Неделя №5 | | | 10. 11. 12. | | |
 | Неделя №6 | | | 13. Ваньжа Кирилл Евгеньевич 14. Зуев Аким Иванович 15. Черкесов Азамат Заурович | | |
