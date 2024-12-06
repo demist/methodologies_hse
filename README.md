@@ -56,7 +56,7 @@
 	- Хорошие примеры
 	- Плохие примеры
 
-###  :fire: Лекция 4
+###  :white_check_mark: Лекция 4
 
 **Базовые методологии разработки ПО (ч.1 / продолжение)**
 
@@ -68,7 +68,7 @@
 	- Плохие примеры
 	- Хорошие примеры
 
-###  :fire: Лекция 5
+###  :white_check_mark: Лекция 5
 
 **Базовые методологии разработки ПО (ч. 2)**
 
@@ -79,7 +79,7 @@
 - RAD-модель
 	- Общее описание
 
-###  Лекция 6
+###  :fire: Лекция 6
 
 **Семейство гибких методологий**
 
@@ -100,7 +100,7 @@
 	- Хороший пример
 	- Общие соображения, когда работает хорошо
 
-###  Лекция 7
+###  :fire: Лекция 7
 
 **CI/CD**
 
@@ -198,7 +198,7 @@
 | Неделя №1 | 07/10/2024 *(2 пары)* | Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) + [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) | *Нет докладов* | | |
 | Неделя №2 | 21/10/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | 1. *dismissed* 2. *dismissed* 3. *dismissed* | | |
 | Неделя №3 | 25/11/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) | 4. *dismissed* 5. *dismissed* 6. *dismissed* | | |
-| Неделя №4 | | | 7. 8. 9. | | |
+| Неделя №4 | 09/12/2024 *(2 пары)* | [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) + [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | 7. *dismissed* 8. *dismissed* 9. *dismissed* | | |
 | Неделя №5 | | | 10. Тепляков Геннадий Дмитриевич 11. 12. | | |
 | Неделя №6 | | | 13. Ваньжа Кирилл Евгеньевич 14. Зуев Аким Иванович 15. Черкесов Азамат Заурович | | |
 | Неделя №7 | | | 16.Газиев Саидрасул Исламбекович 17. Дёшина Кристина Валентиновна 18. Рабинович Майя | | |
@@ -247,4 +247,4 @@
 
 [0]:https://img.shields.io/badge/year-2024%2F2025-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-18/100-yellow
+[2]:https://img.shields.io/badge/progress-27/100-yellow
