@@ -199,7 +199,7 @@
 | Неделя №2 | 21/10/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | 1. *dismissed* 2. *dismissed* 3. *dismissed* | | |
 | Неделя №3 | 25/11/2024 *(2 пары)* | [Базовые методологии разработки ПО (ч.1 / продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) | 4. *dismissed* 5. *dismissed* 6. *dismissed* | | |
 | Неделя №4 | 09/12/2024 *(2 пары)* | [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) + [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | 7. *dismissed* 8. *dismissed* 9. *dismissed* | | |
-| Неделя №5 | | | 10. Тепляков Геннадий Дмитриевич 11. 12. | | |
+| Неделя №5 | | | 10. Тепляков Геннадий Дмитриевич 11. Филев Виктор Леонидович 12. | | |
 | Неделя №6 | | | 13. Ваньжа Кирилл Евгеньевич 14. Зуев Аким Иванович 15. Черкесов Азамат Заурович | | |
 | Неделя №7 | | | 16.Газиев Саидрасул Исламбекович 17. Дёшина Кристина Валентиновна 18. Рабинович Майя | | |
 | Неделя №8 | | | 19.Комкова Полина Дмитриевна 20. Тупицин Тимофей Романович 21. Ляпина Екатерина Максимовна | | |
