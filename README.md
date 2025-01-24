@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/35fe1e5a-48d8-4ac9-bd20-089baa0c6c89)![year][0] ![status][1] ![progress][2]
+![year][0] ![status][1] ![progress][2]
 
 # НИС "Методологии разработки ПО"
 *ФКН ВШЭ, 2024/2025*
