@@ -5,7 +5,7 @@
 
 ## [Чат курса в Telegram](https://t.me/+wfHlhmBdhf0xYTZi)
 
-## [Рабочая ведомость по курсу /// TODO]
+## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/14o0oiqYugileX2LuyF4hXXru1OGzlfXodEUUlMoxJWw/edit?usp=sharing)
 
 # План занятий
 
@@ -151,7 +151,7 @@
 - Диаграмма деятельности
 - Диаграмма состояний
 
-###  Лекция 11
+###  :fire: Лекция 11
 
 **Антипаттерны**
 
@@ -208,7 +208,6 @@
 | Неделя №11 | 10/03/2025 *(2 пары)* | *нет лекции* | 30.Мендус Кирилл Дмитриевич 31.Веселинович Александра Александровна 32.Щербаков Денис Олегович 33.Коробов Вячеслав Сергеевич 34.~~Глижинский Вячеслав Александрович~~  | 30.Planning poker: как выглядит покер в Agile? 31.Важность Chaos Engineering в современных системах 32.Agile в Web3 на примере NEAR Protocol 33.Как Сбер использует Agile | 30.[Материалы](https://disk.yandex.ru/d/BUU-DoI67OZA-w) 31.[Материалы](https://drive.google.com/drive/folders/1S52K73kmu6Dp7SnbjeplF90SAkX5oht4?usp=sharing) 32.[Материалы](https://drive.google.com/drive/folders/1bzAxLzqaGAU7aNotUGaEScQvFsHK39DY?usp=drive_link) 33.[Материалы](https://disk.yandex.ru/i/yWnqWaFJxy1Rqg)|
 | Неделя №12 | 17/03/2025 *(1 пара)* | [Антипаттерны](https://github.com/demist/methodologies_hse/blob/main/slides/lec11new.pdf) | *нет докладов* | | |
 | Неделе №13 | 24/03/2025 | **УСТНЫЙ ОПРОС** | | | |
-| **Итого** | *19 пар* | | | | |
  
 #### Подготовленные, но не рассказанные доклады
 
@@ -251,4 +250,4 @@
 
 [0]:https://img.shields.io/badge/year-2024%2F2025-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-83/100-yellow
+[2]:https://img.shields.io/badge/progress-92/100-yellow
