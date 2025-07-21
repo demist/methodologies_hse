@@ -151,7 +151,7 @@
 - Диаграмма деятельности
 - Диаграмма состояний
 
-###  :fire: Лекция 11
+###  :white_check_mark: Лекция 11
 
 **Антипаттерны**
 
@@ -251,5 +251,5 @@
 
 
 [0]:https://img.shields.io/badge/year-2024%2F2025-blue
-[1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-92/100-yellow
+[1]:https://img.shields.io/badge/status-finished-black
+[2]:https://img.shields.io/badge/progress-100/100-yellow
