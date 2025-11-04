@@ -56,7 +56,7 @@
 	- Хорошие примеры
 	- Плохие примеры
 
-###  :fire: Лекция 4
+###  :white_check_mark: Лекция 4
 
 **Базовые методологии разработки ПО (ч.2)**
 
@@ -68,7 +68,7 @@
 	- Плохие примеры
 	- Хорошие примеры
 
-###  :fire: Лекция 5
+###  :white_check_mark: Лекция 5
 
 **Базовые методологии разработки ПО (ч. 3)**
 
@@ -79,7 +79,7 @@
 - RAD-модель
 	- Общее описание
 
-###  Лекция 6
+### :fire: Лекция 6
 
 **Семейство гибких методологий**
 
@@ -198,7 +198,7 @@
 | Неделя №1 | 24.09 (*1 пара*)| Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) | *нет докладов* | | |
 | Неделя №2 | 08.10 (*2 пары*) | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | **Докладов нет, слоты сгорели** *1.Х 2.Х 3.Х* | | |
 | Неделя №3 | 22.10 (*2 пары*) | [Базовые методологии разработки ПО (ч.2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 3)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) | **Докладов нет, слоты сгорели** *1.Х 2.Х 3.Х* | | |
-| Неделя №4 | 05.11 (*2 пары*) | | 1.Богданова Мария 2.Ибраков Магомед Нариманович 3.Ильясов Анвар Маратович | 2. Методологии в Tesla | 2. https://disk.360.yandex.ru/i/RKcaZEMdpp0TLQ |
+| Неделя №4 | 05.11 (*2 пары*) | [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | 1.Богданова Мария 2.Ибраков Магомед Нариманович 3.Ильясов Анвар Маратович | 2. Методологии в Tesla | 2. https://disk.360.yandex.ru/i/RKcaZEMdpp0TLQ |
 | Неделя №5 | 19.11 (*2 пары*) | | 1.Урманова Алина Ибрагимовна 2.Ржавин Дмитрий Андреевич 3.Халин Иван 4.Рыжов.С.И | | |
 | Неделя №6 | 03.12 (*2 пары*) | | 1.Жилин Никита Олегович 2.Бусыгина Ксения Сергеевна 3.Пичурин Никита Андреевич 4.Куцко Михаил Васильевич | 1. None | 1. None |
 | Неделя №7 | | | 1.Кугаевский Илья Антонович 2.Кононова Вероника Валерьевна 3.Криницын Владимир 4.Иванов Илья | | |
@@ -252,4 +252,4 @@
 
 [0]:https://img.shields.io/badge/year-2025%2F2026-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-17/100-yellow
+[2]:https://img.shields.io/badge/progress-25/100-yellow
