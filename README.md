@@ -5,7 +5,7 @@
 
 ## [Чат курса в Telegram](https://t.me/+wfHlhmBdhf0xYTZi)
 
-## Рабочая ведомость по курсу (*TBA*)
+## [Рабочая ведомость по курсу (см. Лист "Оценки 2025/2026")](https://docs.google.com/spreadsheets/d/14o0oiqYugileX2LuyF4hXXru1OGzlfXodEUUlMoxJWw/edit?usp=sharing)
 
 # План занятий
 
