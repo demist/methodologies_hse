@@ -5,7 +5,7 @@
 
 ## [Чат курса в Telegram](https://t.me/+wfHlhmBdhf0xYTZi)
 
-## Рабочая ведомость по курсу (*TBA*)
+## [Рабочая ведомость по курсу (см. Лист "Оценки 2025/2026")](https://docs.google.com/spreadsheets/d/14o0oiqYugileX2LuyF4hXXru1OGzlfXodEUUlMoxJWw/edit?usp=sharing)
 
 # План занятий
 
@@ -138,7 +138,7 @@
 - DRY / DIE
 - KISS
 
-###  :fire: Лекция 10 
+###  :white_check_mark: Лекция 10 
 
 **Инструменты моделирования и проектирования - UML**
 
@@ -205,8 +205,8 @@
 | Неделя №8 | 28.01 | [Инструменты моделирования и проектирования - UML](https://github.com/demist/methodologies_hse/blob/main/slides/lec10.pdf) | 1.Морозов Андрей Алексеевич 2.Вакарин Максим Дмитриевич 3.Тараненко Константин Александрович 4.Х (**слот сгорел**) | 1. Современные тренды laC. Анализ статьи Harinath Vaggu (2025) 2. Методологии разработки в Valve 3. Методологии Mojang | 1. [Гугл диск](https://drive.google.com/drive/folders/1rAQmfur2dGjKWPpCO610R1UAF2vgKBXC?usp=sharing) 2.[Яндекс диск](https://disk.360.yandex.ru/d/1U9Bo7dYivJDlA) 3.[Яндекс диск](https://disk.360.yandex.ru/d/70bGzJwm9jyw9Q)|
 | Неделя №9 | 11.02 | **лекция не состоялась -- не было слушателей** | 1.Попов Тихон 2.Х (**слот сгорел**) 3.Величко Сергей Сергеевич 4.Кручин Иван Анатольевич | 1. Разработка через тестирование 3. Chaos Engineering 4.ИИ-агенты в ИТ | 1. [Яндекс Диск](https://disk.yandex.ru/d/4O-kYcNhWBD63A) 3. [Материалы](https://drive.google.com/drive/folders/1o1a2xHADSwDbX7-wA9ckpquwl-1HX6pM?usp=sharing) 4.[Гугл диск](https://drive.google.com/drive/folders/1snbad4LMK1q_h1L4rr1Im8T9xjMIgEvH?usp=drive_link)|
 | Неделя №10 | 25.02 | [Инструменты моделирования и проектирования - UML (продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec10.pdf) + [Антипаттерны](https://github.com/demist/methodologies_hse/blob/main/slides/lec11.pdf) | 1.Польский Игорь Владимирович 2.Мусиков Тимофей Дмитриевич 3.Мукашев Тимур 4. Аванян Карен Сергеевич | 1. Docs as Code 2. Docker 3.GitLab 4. Netflix | 1. [YandexDisk](https://disk.360.yandex.ru/i/7xrD65aKWeb6wg) 2. [YandexDisk](https://disk.yandex.ru/d/K8IJs0u-mppegA) 3.[Яндекс диск](https://disk.yandex.ru/d/G9OuXq7raoSj8A) 4. [Гугл диск](https://docs.google.com/presentation/d/1kzASe-6tmWlw9OIwBtpn-ar8uoiR31zyV-iZHyXrG48/edit?usp=sharing)|
-| Неделя №11 | 11.03 | | 1.Х 2.Жеребчиков Виталий Максимович 3.Силкин Тимофей 4.Х |3. Путь CDPR |3.[Google disk](https://drive.google.com/drive/folders/1AHzQpz4LQgJW0FsY9mWwPeS0JuryRvmE?usp=sharing) |
-| **Итого** | *11 пар* | | | | |
+| Неделя №11 | 11.03 | [Антипаттерны](https://github.com/demist/methodologies_hse/blob/main/slides/lec11.pdf) | 1.(**слот сгорел**) 2.Жеребчиков Виталий Максимович 3.Силкин Тимофей 4.(**слот сгорел**) | 2. Dev Containers: воспроизводимая среда разработки 3. Путь CDPR | 2. [YandexDisk](https://disk.360.yandex.ru/d/yg61FtoSPW-psQ) 3.[Google disk](https://drive.google.com/drive/folders/1AHzQpz4LQgJW0FsY9mWwPeS0JuryRvmE?usp=sharing) |
+
  
 #### Подготовленные, но не рассказанные доклады
 
@@ -234,21 +234,24 @@
 
 **Темы устного опроса** - лекции №3, №4, №5, №6 (*Базовые методологии разработки ПО (ч.1, ч.2)* + *Семейство гибких методологий*)
 
-:bangbang: **Устный опрос пройдет 18 марта** 
+:bangbang: **Устный опрос пройдет 17-19 марта** 
 
-*Организационные моменты по устному опросу будут опубликованы позже* 
+Запись на слот для устного опроса по [ссылке](https://calendar.app.google/7824H6yPQ3AMudtEA). 
+
+После выбора слота вам на указанную при бронировании почту придет письмо с ссылкой на Google Meet. **Не опаздывайте**, слоты стоят впритык -- лучше подключаться по ссылке за 1-2 мин до вашего времени. 
+Если преподаватель еще не подключился -- "пинговать" не нужно, просто ждите "во встрече".
+
 
 ## Формула оценки
 
 **Итоговая оценка** = *Математическое округление* (0.4 \* [Научный доклад](https://github.com/demist/methodologies_hse_2022#%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4) + 0.3 \* [Отчетное эссе](https://github.com/demist/methodologies_hse_2022#%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D0%B5-%D1%8D%D1%81%D1%81%D0%B5) + 0.3 \* [Устный опрос](https://github.com/demist/methodologies_hse_2022#%D1%83%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%BF%D1%80%D0%BE%D1%81))
 
 **Сроки выставления оценок:**
-- Оценка за доклады - ориентировочно **XX**
-- Оценка за эссе - ориентировочно **XX**
-- Оценка за устный опрос - **XX**
-- **Итоговая оценка за курс: XX** (оптимистично), **XX** (пессимистично) 
+- Оценка за доклады - ориентировочно 11.03
+- Оценка за эссе - ориентировочно 16-17.03
+- Оценка за устный опрос - 17-19.03
 
 
 [0]:https://img.shields.io/badge/year-2025%2F2026-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-82/100-yellow
+[2]:https://img.shields.io/badge/progress-91/100-yellow
