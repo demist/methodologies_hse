@@ -1,22 +1,22 @@
 ![year][0] ![status][1] ![progress][2]
 
 # НИС "Методологии разработки ПО"
-*ФКН ВШЭ, 2025/2026*
+*ФКН ВШЭ, 2026/2027*
 
 ## [Чат курса в Telegram](https://t.me/+wfHlhmBdhf0xYTZi)
 
-## [Рабочая ведомость по курсу (см. Лист "Оценки 2025/2026")](https://docs.google.com/spreadsheets/d/14o0oiqYugileX2LuyF4hXXru1OGzlfXodEUUlMoxJWw/edit?usp=sharing)
+## [Рабочая ведомость по курсу (см. Лист "Оценки 2026/2027")](https://docs.google.com/spreadsheets/d/14o0oiqYugileX2LuyF4hXXru1OGzlfXodEUUlMoxJWw/edit?usp=sharing)
 
 # План занятий
 
 ## План теоретической части курса
 
-###  :white_check_mark: Введение
+###  :fire: Введение
 
 - Общая идея курса
 - Информация о курсе
 
-###  :white_check_mark: Лекция 1
+###  :fire: Лекция 1
 
 **Общие понятия о методологиях разработки ПО**
 
@@ -27,7 +27,7 @@
 	- Внешние факторы
 	- Внутренние факторы
 
-###  :white_check_mark: Лекция 2
+### Лекция 2
 
 **Жизненный цикл проектирования, разработки и внедрения ПО**
 
@@ -43,7 +43,7 @@
         - Варианты поставки и развертывания
     - Сопровождение
 
-### :white_check_mark: Лекция 3
+### Лекция 3
 
 **Базовые методологии разработки ПО (ч.1)**
 
@@ -56,7 +56,7 @@
 	- Хорошие примеры
 	- Плохие примеры
 
-###  :white_check_mark: Лекция 4
+### Лекция 4
 
 **Базовые методологии разработки ПО (ч.2)**
 
@@ -68,7 +68,7 @@
 	- Плохие примеры
 	- Хорошие примеры
 
-###  :white_check_mark: Лекция 5
+### Лекция 5
 
 **Базовые методологии разработки ПО (ч. 3)**
 
@@ -79,7 +79,7 @@
 - RAD-модель
 	- Общее описание
 
-### :white_check_mark: Лекция 6
+### Лекция 6
 
 **Семейство гибких методологий**
 
@@ -100,7 +100,7 @@
 	- Хороший пример
 	- Общие соображения, когда работает хорошо
 
-###  :white_check_mark: Лекция 7
+### Лекция 7
 
 **CI/CD**
 
@@ -110,7 +110,7 @@
 - Роль CI/CD/CD в процессе разработки ПО
 - Пример "как это работает у нас"
 
-###  :white_check_mark: Лекция 8 
+### Лекция 8 
 
 **Принципы проектирования ПО, ч.1**
 
@@ -128,7 +128,7 @@
 		- Неподвижность
 - Принцип High Cohesion / Low Coupling 
 
-### :white_check_mark: Лекция 9 
+### Лекция 9 
 
 **Принципы проектирования ПО, ч.2**
 
@@ -138,7 +138,7 @@
 - DRY / DIE
 - KISS
 
-###  :white_check_mark: Лекция 10 
+### Лекция 10 
 
 **Инструменты моделирования и проектирования - UML**
 
@@ -151,7 +151,7 @@
 - Диаграмма деятельности
 - Диаграмма состояний
 
-###  :fire: Лекция 11
+### Лекция 11
 
 **Антипаттерны**
 
@@ -187,7 +187,7 @@
 	- Обзор статей / докладов на тему IaaC и других современных трендов в организации процессов управления инфраструктурой
 - Презентацию + краткое описание доклада + ссылки на все источники нужно залить в этот файл *README.md* через pull-request
 
-:bangbang: :stop_sign: **ОБРАТИТЕ ВНИМАНИЕ:** на НИС записано 35 человек. Слотов на доклады в расписании - 37. Этого хватает с запасом на всех. Возможно, на крайней неделе курса будут добавлены еще 3-5 слотов, но это не гарантируется. Если вы не запишетесь вовремя, слоты пройдут "впустую", а потом вам не хватит слота на доклад - то выступить уже не получится, можно будет только сдать материалы по докладу со штрафом в 40% оценки. Дополнительных слотов для "опоздавших" не предусмотрено. 
+:bangbang: :stop_sign: **ОБРАТИТЕ ВНИМАНИЕ:** на НИС записано 30 человек. Слотов на доклады в расписании - 33. Этого хватает с запасом на всех. Возможно, на крайней неделе курса будут добавлены еще несколько слотов, но это не гарантируется. Если вы не запишетесь вовремя, слоты пройдут "впустую", а потом вам не хватит слота на доклад - то выступить уже не получится, можно будет только сдать материалы по докладу со штрафом в 40% оценки. Дополнительных слотов для "опоздавших" не предусмотрено. 
 
 Можно занимать слоты уже сейчас - вписывая свое ФИО. К дате доклада должно быть указано не только ФИО, но и тема доклада + загружены все материалы и добавлена ссылка на них..
 
@@ -195,18 +195,16 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя №1 | 24.09 (*1 пара*)| Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) | *нет докладов* | | |
-| Неделя №2 | 08.10 (*2 пары*) | [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | **Докладов нет, слоты сгорели** *1.Х 2.Х 3.Х* | | |
-| Неделя №3 | 22.10 (*2 пары*) | [Базовые методологии разработки ПО (ч.2)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) + [Базовые методологии разработки ПО (ч. 3)](https://github.com/demist/methodologies_hse/blob/main/slides/lec5.pdf) | **Докладов нет, слоты сгорели** *1.Х 2.Х 3.Х* | | |
-| Неделя №4 | 05.11 (*2 пары*) | [Семейство гибких методологий](https://github.com/demist/methodologies_hse/blob/main/slides/lec6.pdf) | 1.Богданова Мария 2.Ибраков Магомед Нариманович 3.Ильясов Анвар Маратович | 1. Platform Engineering изнутри и снаружи 2. Методологии в Tesla 3.Методологии Rockstar Games | 1. [Презентация](https://docs.google.com/presentation/d/1EYtkNtZ2pnoqEIojmDlDIiBewmTxYKG44DNX1xFTgQ8/edit?usp=sharing), [Материалы](https://docs.google.com/document/d/1g_4vpBXWIqT1EfXwr7oFhc2Oam-DKIIn7W5BhCz67q4/edit?usp=sharing) 2. [Ссылка](https://disk.360.yandex.ru/i/RKcaZEMdpp0TLQ) 3. [Ссылка](https://disk.yandex.ru/i/Jqy3_FOaItp8LA) |
-| Неделя №5 | 19.11 (*2 пары*) | [CI/CD](https://github.com/demist/methodologies_hse/blob/main/slides/lec7.pdf) | 1.Урманова Алина Ибрагимовна 2.Ржавин Дмитрий Андреевич 3.Халин Иван 4.Рыжов.С.И |1.Особенности методологий разработки в Amazon. 2. Критический обзор «A Survey on Infrastructure-as-Code Solutions for Cloud Development» 3. Методологии OpenAI 4.AI-Driven Development: использование ИИ-агентов в разработке программного обеспечения |1.[Преза](https://disk.360.yandex.ru/i/42sn70EbczJqvA) 2. [Презентация](https://disk.360.yandex.ru/i/c7qfIGQEy-swTw) [Доклад](https://disk.360.yandex.ru/i/cE49ca1z7WgEaA) [Статья](https://disk.360.yandex.ru/i/pJoe63dRR84Dlg) [Перевод статьи](https://disk.360.yandex.ru/i/q7DHGJfWxE8HbA) 3. [тык](https://docs.google.com/presentation/d/1cb6OBQOsEwY54GfabLtVGk-3p5m8MsAV/edit?usp=sharing&ouid=100542180913356871858&rtpof=true&sd=true) 4. [Презентация](https://docs.google.com/presentation/d/15hK-q1F5NbTot9z4iKNKIZFY-c33YNx4haX3MepEG2o/edit?usp=sharing) [Материалы](https://docs.google.com/document/d/1eVrISGKl7x0z8mBAk9bDfTFIkb_mlze8/edit?usp=sharing&ouid=115046803347155389463&rtpof=true&sd=true)|
-| Неделя №6 | 03.12 (*2 пары*) | [Принципы проектирования ПО, ч.1](https://github.com/demist/methodologies_hse/blob/main/slides/lec8.pdf) | 1.Жилин Никита Олегович 2.Бусыгина Ксения Сергеевна 3.Пичурин Никита Андреевич 4.Куцко Михаил Васильевич | 1. Как укротить хаос экспериментов в ML с помощью MLflow 2. Team Topologies: как осознанная структура команд определяет архитектуру и скорость разработки 3. AI-инфраструктура и MLOps-инструменты, используемые внутри компании Сбер 4. Как Гугл тестирует программное обеспечение | 1. [Материалы](https://drive.google.com/drive/folders/1BgIRvrru2wWo7Zhvg_bt_xq9gJUhUbK-?usp=drive_link) 2. [Материалы](https://disk.yandex.ru/d/lwMOQFlwcC03KQ) 3. [Гугл диск](https://drive.google.com/drive/folders/1iQyc0UE4sJlCXGbvuNF0tn47lGEmE2y4?usp=drive_link) 4. [materials](https://drive.google.com/drive/folders/1Ja-mwOYq-yBAXROJoaszBKIK6udVIkoB) |
-| Неделя №7 | 21.01 (*2 пары*) | [Принципы проектирования ПО, ч.2](https://github.com/demist/methodologies_hse/blob/main/slides/lec9.pdf) | 1.Кугаевский Илья Антонович 2.Кононова Вероника Валерьевна 3.Криницын Владимир 4.Иванов Илья | 1. Особенности разработки ядра Linux 2.Критический обзор «Achieving Operational Excellence in Cloud Management» 3. Проблемы автоматизации CI/CD в Jenkins. 4. Использование Claude code в компании Anthropic |1. [Гугл диск](https://docs.google.com/presentation/d/1CtTdl3yVF3D9L8FRjo3h6ET1hHpJN34w/edit?usp=sharing&ouid=110937481648712737444&rtpof=true&sd=true) 2. [Яндекс диск](https://disk.yandex.ru/d/dzB-VuBCWQ9ozw) 3. [Гугл диск](https://drive.google.com/drive/folders/16r_X18NBQa2epCtkUizG2vS2poEJXdIr?usp=drive_link) 4. [Гугл диск](https://drive.google.com/drive/folders/1RxVtTmcmH_pQ1YIaJ0OGj3s90AV5leJE?usp=sharing) |
-| Неделя №8 | 28.01 | [Инструменты моделирования и проектирования - UML](https://github.com/demist/methodologies_hse/blob/main/slides/lec10.pdf) | 1.Морозов Андрей Алексеевич 2.Вакарин Максим Дмитриевич 3.Тараненко Константин Александрович 4.Х (**слот сгорел**) | 1. Современные тренды laC. Анализ статьи Harinath Vaggu (2025) 2. Методологии разработки в Valve 3. Методологии Mojang | 1. [Гугл диск](https://drive.google.com/drive/folders/1rAQmfur2dGjKWPpCO610R1UAF2vgKBXC?usp=sharing) 2.[Яндекс диск](https://disk.360.yandex.ru/d/1U9Bo7dYivJDlA) 3.[Яндекс диск](https://disk.360.yandex.ru/d/70bGzJwm9jyw9Q)|
-| Неделя №9 | 11.02 | **лекция не состоялась -- не было слушателей** | 1.Попов Тихон 2.Х (**слот сгорел**) 3.Величко Сергей Сергеевич 4.Кручин Иван Анатольевич | 1. Разработка через тестирование 3. Chaos Engineering 4.ИИ-агенты в ИТ | 1. [Яндекс Диск](https://disk.yandex.ru/d/4O-kYcNhWBD63A) 3. [Материалы](https://drive.google.com/drive/folders/1o1a2xHADSwDbX7-wA9ckpquwl-1HX6pM?usp=sharing) 4.[Гугл диск](https://drive.google.com/drive/folders/1snbad4LMK1q_h1L4rr1Im8T9xjMIgEvH?usp=drive_link)|
-| Неделя №10 | 25.02 | [Инструменты моделирования и проектирования - UML (продолжение)](https://github.com/demist/methodologies_hse/blob/main/slides/lec10.pdf) + [Антипаттерны](https://github.com/demist/methodologies_hse/blob/main/slides/lec11.pdf) | 1.Польский Игорь Владимирович 2.Мусиков Тимофей Дмитриевич 3.Мукашев Тимур 4. Аванян Карен Сергеевич | 1. Docs as Code 2. Docker 3.GitLab 4. Netflix | 1. [YandexDisk](https://disk.360.yandex.ru/i/7xrD65aKWeb6wg) 2. [YandexDisk](https://disk.yandex.ru/d/K8IJs0u-mppegA) 3.[Яндекс диск](https://disk.yandex.ru/d/G9OuXq7raoSj8A) 4. [Гугл диск](https://docs.google.com/presentation/d/1kzASe-6tmWlw9OIwBtpn-ar8uoiR31zyV-iZHyXrG48/edit?usp=sharing)|
-| Неделя №11 | 11.03 | [Антипаттерны](https://github.com/demist/methodologies_hse/blob/main/slides/lec11.pdf) | 1.(**слот сгорел**) 2.Жеребчиков Виталий Максимович 3.Силкин Тимофей 4.(**слот сгорел**) | 2. Dev Containers: воспроизводимая среда разработки 3. Путь CDPR | 2. [YandexDisk](https://disk.360.yandex.ru/d/yg61FtoSPW-psQ) 3.[Google disk](https://drive.google.com/drive/folders/1AHzQpz4LQgJW0FsY9mWwPeS0JuryRvmE?usp=sharing) |
-
+| Неделя №1 | 14.09 (*1 пара*)| Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) | *нет докладов* | | |
+| Неделя №2| :---: | :---: | 1. 2. 3. | :---: | :---: |
+| Неделя №3| :---: | :---: | 4. 5. 6. | :---: | :---: |
+| Неделя №4| :---: | :---: | 7. 8. 9. | :---: | :---: |
+| Неделя №5| :---: | :---: | 10. 11. 12. | :---: | :---: |
+| Неделя №6| :---: | :---: | 13. 14. 15. | :---: | :---: |
+| Неделя №7| :---: | :---: | 16. 17. 18. | :---: | :---: |
+| Неделя №8| :---: | :---: | 19. 20. 21. 22. 23. | :---: | :---: |
+| Неделя №9| :---: | :---: | 24. 25. 26. 27. 28. | :---: | :---: |
+| Неделя №10| :---: | :---: | 29. 30. 31. 32. 33. | :---: | :---: |
  
 #### Подготовленные, но не рассказанные доклады
 
@@ -222,7 +220,7 @@
 
 3-4 страничное эссе с обзором докладов, обсуждавшихся на семинарской части
 
-:bangbang: **Дедлайн 15.03 (включительно)** 
+:bangbang: **За пару недель до конца модуля №3** 
 
 Готовое эссе присылайте на почту [nikita.starichkov@gmail.com](mailto:nikita.starichkov@gmail.com), обязательно укажите тему письма "Отчетное эссе Методологии разработки", а в теле письма укажите свое ФИО и номер группы.
 
@@ -234,9 +232,9 @@
 
 **Темы устного опроса** - лекции №3, №4, №5, №6 (*Базовые методологии разработки ПО (ч.1, ч.2)* + *Семейство гибких методологий*)
 
-:bangbang: **Устный опрос пройдет 17-19 марта** 
+:bangbang: **Крайняя неделя модуля №3** 
 
-Запись на слот для устного опроса по [ссылке](https://calendar.app.google/7824H6yPQ3AMudtEA). 
+Запись на слот для устного опроса по *TODO*. 
 
 После выбора слота вам на указанную при бронировании почту придет письмо с ссылкой на Google Meet. **Не опаздывайте**, слоты стоят впритык -- лучше подключаться по ссылке за 1-2 мин до вашего времени. 
 Если преподаватель еще не подключился -- "пинговать" не нужно, просто ждите "во встрече".
@@ -247,11 +245,11 @@
 **Итоговая оценка** = *Математическое округление* (0.4 \* [Научный доклад](https://github.com/demist/methodologies_hse_2022#%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4) + 0.3 \* [Отчетное эссе](https://github.com/demist/methodologies_hse_2022#%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D0%B5-%D1%8D%D1%81%D1%81%D0%B5) + 0.3 \* [Устный опрос](https://github.com/demist/methodologies_hse_2022#%D1%83%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%BF%D1%80%D0%BE%D1%81))
 
 **Сроки выставления оценок:**
-- Оценка за доклады - ориентировочно 11.03
-- Оценка за эссе - ориентировочно 16-17.03
-- Оценка за устный опрос - 17-19.03
+- Оценка за доклады - *TODO*
+- Оценка за эссе - *TODO*
+- Оценка за устный опрос - *TODO*
 
 
-[0]:https://img.shields.io/badge/year-2025%2F2026-blue
+[0]:https://img.shields.io/badge/year-2026%2F2027-blue
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-91/100-yellow
+[2]:https://img.shields.io/badge/progress-0/100-yellow
