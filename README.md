@@ -253,5 +253,5 @@
 
 
 [0]:https://img.shields.io/badge/year-2025%2F2026-blue
-[1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://img.shields.io/badge/progress-91/100-yellow
+[1]:https://img.shields.io/badge/status-ended-black
+[2]:https://img.shields.io/badge/progress-100/100-green
