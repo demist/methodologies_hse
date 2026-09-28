@@ -195,7 +195,7 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя №1 | 14.09 (*1 пара*)| Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) | *нет докладов* | | |
+| Неделя №1 | 15.09 (*1 пара*)| Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/main/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec1.pdf) | *нет докладов* | | |
 | Неделя №2| 29.09 (*2 пары*) | Лекция №2: [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/main/slides/lec2.pdf) + Лекция №3: [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/main/slides/lec3.pdf) | 1. _слот сгорел_ 2. _слот сгорел_ 3. _слот сгорел_ | :---: | :---: |
 | Неделя №3| :---: | :---: | 4. 5. Елфимов Аскар Артурович 6. | :---: | :---: |
 | Неделя №4| :---: | :---: | 7. 8. Данилов Даниил Дмитриевич 9. | :---: | :---: |
