@@ -195,7 +195,7 @@
 
 | Неделя | Даты | Лекция | Докладчик(и) | Тема доклада | Ссылка на материалы |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Неделя №1 | 15.09 (*1 пара*)| Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/2026/2027_current/slides/intro.pdf) + [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/2026/2027_current/slides/lec1.pdf) | *нет докладов* | | |
+| Неделя №1 | 15.09 (*1 пара*)| Знакомство + [Введение](https://github.com/demist/methodologies_hse/blob/2026/2027_current/slides/intro.pdf) + Лекция №1: [Общие понятия о методологиях разработки ПО](https://github.com/demist/methodologies_hse/blob/2026/2027_current/slides/lec1.pdf) | *нет докладов* | | |
 | Неделя №2| 29.09 (*1 пара*) | Лекция №2: [Жизненный цикл проектирования, разработки и внедрения ПО](https://github.com/demist/methodologies_hse/blob/2026/2027_current/slides/lec2.pdf) | 1. _слот сгорел_ 2. _слот сгорел_ 3. _слот сгорел_ | :---: | :---: |
 | Неделя №3| 13.10 (*2 пары*) | Лекция №3: [Базовые методологии разработки ПО (ч.1)](https://github.com/demist/methodologies_hse/blob/2026/2027_current/slides/lec3.pdf) и Лекция №4: [Базовые методологии разработки ПО (ч.2)](https://github.com/demist/methodologies_hse/blob/2026/2027_current/slides/lec3.pdf) | 4. _слот сгорел_ 5. _слот сгорел_ 6. _слот сгорел_ | :---: | :---: |
 | Неделя №4| :---: | :---: | 7. Елфимов Аскар Артурович 8. Данилов Даниил Дмитриевич 9. Тменов Георгий Анатольевич | :---: | :---: |
